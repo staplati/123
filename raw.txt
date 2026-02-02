@@ -2,12 +2,44 @@
 ! Expires: 1000 day 
 ! Description: scmp
 
-||piano.io/xbuilder/experience/execute$xmlhttprequest,third-party,domain=~automobilwoche.de
+||amplitude.com^$xmlhttprequest,third-party
+||axate.io$script,third-party
+||loader.*.com/prod/*/loader.min.js$script
+||cdn.*.com/prod/*/loader.min.js$script
+||blueconic.net^$third-party
+/[a-z]{1}\d{2,3}\.\w+\.(co(m|\.uk)|net|org)\/script\.js/$script,~third-party
+||cxense.com^$script,third-party,domain=~journaldemontreal.com|~journaldequebec.com|~wsj.com
+||cxense.com^$script,domain=bizjournals.com,important
+||ensighten.com/*/Bootstrap.js$script,third-party
 ||evolok.net^$third-party
+||fewcents.co/*/paywall*.js$script,third-party
 ||hadrianpaywall.com^$third-party
+.de/sub/js/pc-offer-west.js$script,~third-party
+||js.matheranalytics.com^$script,third-party
+||newsmemory.com?meter$third-party
+||olytics.omeda.com^$third-party
+||onecount.net^$third-party
 ||js.pelcro.com^$script,third-party
+/xbuilder/experience/execute$xmlhttprequest,~third-party
+||piano.io/xbuilder/experience/execute$xmlhttprequest,third-party,domain=~automobilwoche.de
+@@||piano.io^$domain=hbr.org|japantimes.co.jp
+@@||tinypass.com$script,domain=ajc.com|thelogic.co
+||api.pico.tools/client/query/*$xmlhttprequest,~third-party
+||api.pico.tools/popup/null/*$xmlhttprequest,~third-party
+gadget.pico.tools##+js(json-prune, locked)
+||poool.fr^$third-party
 ||qiota.com^$xmlhttprequest,third-party
+||sophi.io^$third-party
 ||steadyhq.com^$script,third-party
 ||wallkit.net/js/$script,third-party
 ||zephr.com/zephr-browser/$script,third-party
+/arc/subs/p.min.js$script,~third-party
+/c/assets/pigeon.js$script,~third-party
+/evolok/*ev-em.min.js$script,domain=~vikatan.com
+/evolok/*ev-widgets.min.js$script
+/paywall/evercookie_get.js$script,~third-party
+/shared-content/art/tncms/api/access.*.js$script,~third-party
+/wp-content/plugins/leaky-paywall/js/leaky-paywall-cookie.js$script,~third-party
+/wp-content/plugins/newspack-plugin/dist/*-gate-metering.js$script,~third-party
+/wp-content/*/plugins/rcp-view-limit/$script,~third-party
 /zephr/feature$xmlhttprequest
