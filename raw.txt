@@ -2,5 +2,5 @@
 ! Expires: 1000 day 
 ! Description: scmp
 
-/xbuilder/experience/execute$xmlhttprequest,~third-party
+||dwell.com/article/*?rel=plus$inline-script
 ||piano.io/xbuilder/experience/execute$xmlhttprequest,third-party
