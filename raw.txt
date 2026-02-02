@@ -2,6 +2,7 @@
 ! Expires: 1000 day 
 ! Description: scmp
 
+||dwell.com/article/*?rel=plus$script
 ||amplitude.com^$xmlhttprequest,third-party
 ||axate.io$script,third-party
 ||loader.*.com/prod/*/loader.min.js$script
