@@ -1,243 +1,97 @@
 <!DOCTYPE html>
-<html lang="zh-TW">
+<html lang="zh-Hant">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>韋伯－費希納定律</title>
+<title>色彩互動學 - 相反的底色</title>
 <style>
-    body {
-        font-family: "PingFang TC", "Heiti TC", "Microsoft JhengHei", sans-serif;
-        line-height: 1.8;
-        color: #222;
-        max-width: 800px;
-        margin: 0 auto;
-        padding: 40px 20px;
-        background-color: #fafafa;
-    }
-    article {
-        background-color: #fff;
-        padding: 50px 60px;
-        box-shadow: 0 0 10px rgba(0,0,0,0.05);
-    }
-    .chapter-header {
-        display: flex;
-        align-items: baseline;
-        margin-bottom: 30px;
-    }
-    .chapter-num {
-        font-size: 3em;
-        font-weight: bold;
-        color: #666;
-        margin-right: 15px;
-    }
-    h1 {
-        font-size: 2em;
-        margin: 0;
-        letter-spacing: 2px;
-    }
-    h2 {
-        font-size: 1.6em;
-        margin: 5px 0 40px 0;
-        font-weight: normal;
-        color: #444;
-    }
-    p {
-        margin-bottom: 20px;
-        text-align: justify;
-    }
-    .quote {
-        margin: 25px 40px;
-        padding-left: 20px;
-        color: #555;
-    }
-    .diagram-row {
-        display: flex;
-        justify-content: center;
-        align-items: flex-end;
-        gap: 60px;
-        margin: 50px 0;
-    }
-    .diagram-figure {
-        text-align: center;
-    }
-    .diagram-caption {
-        margin-top: 15px;
-        font-size: 0.9em;
-        color: #555;
-    }
-    .arrow-text {
-        margin-bottom: 40px;
-        color: #666;
-        font-size: 0.95em;
-    }
-    .svg-container {
-        border: 1px solid #333;
-        background-color: #fff;
-        display: block;
-        margin: 0 auto;
-    }
-    
-    @media (max-width: 600px) {
-        article { padding: 30px 20px; }
-        .diagram-row { flex-direction: column; align-items: center; gap: 30px; }
-        .arrow-text { margin-bottom: 10px; }
-    }
+  body {
+    font-family: "PingFang TC", "Heiti TC", "Microsoft JhengHei", sans-serif;
+    line-height: 1.8;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    color: #333;
+  }
+  h1 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  h2 {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 40px;
+  }
+  h3 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+  p {
+    margin-bottom: 20px;
+    text-align: justify;
+  }
+  .image-container {
+    text-align: center;
+    margin: 60px 0;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #eee;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+  }
 </style>
 </head>
 <body>
 
-<article>
-    <div class="chapter-header">
-        <div class="chapter-num">20</div>
-        <div>
-            <h1>韋伯－費希納定律</h1>
-            <h2>——混合色的測量</h2>
-        </div>
-    </div>
+<div class="image-container">
+  <!-- Base64 placeholder for the first image (blue and red color swatches) -->
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" alt="藍色與紅色色塊組合">
+</div>
 
-    <p>為取得等階漸進的灰階，名著《色彩對比原理》（The Laws of Contrasts of Colour）的作者謝弗勒爾（M. E. Chevreul）給了以下指示（一八六八年英譯本第 5 頁第 11 段）：</p>
+<h1>相反的底色</h1>
+<h2>Chapter 6</h2>
 
-    <div class="quote">
-        將一塊厚紙板分成皆約 1/4 英吋寬的十等分條狀，均勻塗上一層淡色調的墨水。墨水乾了之後再塗上第二層，但是跳過第一條。第二層墨水乾了之後再塗上第三層，唯跳過第一條與第二條不塗。重複這樣的作法，讓原本色調單一的十道條紋從第一道到最後一道逐漸增加色彩深度。
-    </div>
+<h3>6-3</h3>
 
-    <p>這個作法聽起來很有說服力，如此的理所當然讓人不禁好奇，是不是有人懷疑過實驗的結果真是這樣美好——是否有人真的實際演練過，包括謝弗勒爾他自己。</p>
+<p>讓黃色矩形出現在左側。這裡我們看到兩個不同顏色的矩形相連成組。<br>
+在這組色塊中的兩個 X 形，看起來不太一樣。</p>
 
-    <p>當然這裡指的是空間色（見第 45 頁），不過<br>最重要的是，它也讓我們對混合色有新的洞察——在見證必然的意外發現之後。</p>
+<p>我們看著 X 形越久，越認真比較二者（最好有點距離），我們就越覺得這 X 形跟旁邊的底色是相同的顏色。<br>
+我們看到整個畫面（結合兩個練習）是由兩種顏色組成，一種顏色各出現兩色次：分別為底色與 X 形。</p>
 
-    <p>這個意外就是，在採取一連串相同的步驟之後，上面所承諾的漸進式的「色彩深度增加」，<br>不如多數人的預期，並沒有發生。就算是混和顏料，等量、逐步地增加同一個顏色，也未能出現等階的漸層。</p>
+<p>我們看不出畫面中其實不只有兩種顏色，同時<br>
+兩個 X 形是一樣的——意指顏色相同——<br>
+因此，它們跟兩個底色的顏色都不同。</p>
 
-    <p>在這個案例中，當持續層層塗色到無法再超越、不再變化的色彩飽和度時，原來漸進增加的深度，將無可避免地進入減低的狀態並消失。</p>
+<p>因此，我們肉眼看不出這個練習中出現了三種顏色，而不是兩種。</p>
 
-    <p>分析謝弗勒爾這種層層塗色的方法，<br>我們看到的不只是彩度的加法混色，還有明度的減法混色。</p>
+<p>唯有透過連接兩個 X 的短直線我們才看得出來</p>
 
-    <p>更精準地說，這裡呈現的是兩種方向的算術級數，而兩者都是單純的物理變化。</p>
+<p>由此我們知道，X 形真實的顏色以及視覺所見的顏色<br>
+出現了歧異。換句話說，我們看到的不是這些顏色真正的樣子。</p>
 
-    <p>在第 56 頁的圖示中，一排等高等寬的梯階沿著一條直線節節升高，說明了這個物理事實。</p>
+<p>我們做這個練習，<br>
+第一，不是為了製造驚喜或是娛樂性的錯覺效果，而是讓我們的眼睛跟心智覺知色彩互動學的奇妙之處；<br>
+第二，學習如何在運用色彩進行創作時，善用色彩的偽裝術。</p>
 
-    <p>如前所述以及在克利的水彩畫中，我們很清楚地看到增加的幅度會慢慢減低。因此，梯階升高的幅度越來越平緩。於是物理趨向的直線，在心理上變成曲線，最後則變成代表飽和色的水平線，彩度不再增加與減少。</p>
+<p>問題在於：找出在兩個底色上失去其真實面貌的顏色。<br>
+要問的是：是什麼樣的顏色相關性，讓三種顏色看起來像兩種顏色？</p>
 
-    <p>這引出了一個問題：如何才能創造出混合色等階變化的視覺效果？</p>
+<div class="image-container">
+  <!-- Base64 placeholder for the second image (purple and yellow background with crossing lines) -->
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" alt="紫色與黃色底色上的交叉線條">
+</div>
 
-    <p>韋伯（Wilhelm Eduard Weber，1804–91）與費希納（Gustavo Teodoro Fechner，1801–87）找到了答案。這個公式就是所謂的「韋伯-費希納定律」（Weber-Fechner Law）——算術級數的視覺感知，對應的是幾何級數的物理變化。</p>
+<h3>6-4</h3>
 
-    <p>以下一頁的圖示來說明，這表示：<br>
-    如果前面兩個梯階測得一個跟兩個單位的升高，那麼<br>
-    第三個梯階不只是增加一個單位（這是算術比例裡的 3），而是兩倍之多（也就是幾何比例中的 4）。這個連續梯階將測量出 8、16、32、64 個單位。<br>
-    這樣的遞增呈現向上的曲線，最後變成垂直的直線，再度代表飽和色的出現。</p>
+<p>三種顏色看似兩種顏色。</p>
 
-    <p>然而，看到這樣幾何級數的增加，在我們心裡將轉換成一條直線。我們以為並「感覺」我們看到了等高的梯階。</p>
-
-    <p>要證明物理事實跟心理效果之間存在著這般驚人的差異，<br>以及更重要的，如何透過個人體驗相信這個原理，我們建議進行以下的實驗：</p>
-
-    <p>在一張白紙上，用很淡的顏色層層清透地塗抹交疊；首先，如謝弗勒爾所建</p>
-
-    <!-- 算術級數圖示區 -->
-    <div class="diagram-row">
-        <div class="diagram-figure">
-            <svg class="svg-container" width="120" height="120" xmlns="http://www.w3.org/2000/svg">
-                <defs>
-                    <pattern id="hatch1" patternUnits="userSpaceOnUse" width="4" height="4">
-                        <path d="M-1,1 l2,-2 M0,4 l4,-4 M3,5 l2,-2" stroke="#666" stroke-width="1"/>
-                    </pattern>
-                </defs>
-                <path d="M0,24 H120 M0,48 H120 M0,72 H120 M0,96 H120 M24,0 V120 M48,0 V120 M72,0 V120 M96,0 V120" stroke="#aaa" fill="none"/>
-                <rect x="0" y="72" width="24" height="48" fill="url(#hatch1)"/>
-                <rect x="24" y="48" width="24" height="72" fill="url(#hatch1)"/>
-                <rect x="48" y="24" width="24" height="96" fill="url(#hatch1)"/>
-                <rect x="72" y="0" width="48" height="120" fill="url(#hatch1)"/>
-                <rect width="120" height="120" stroke="#333" fill="none" stroke-width="2"/>
-            </svg>
-            <div class="diagram-caption">此物理事實</div>
-        </div>
-        <div class="arrow-text">削弱成</div>
-        <div class="diagram-figure">
-            <svg class="svg-container" width="120" height="120" xmlns="http://www.w3.org/2000/svg">
-                <rect x="0" y="96" width="24" height="24" fill="url(#hatch1)"/>
-                <rect x="24" y="72" width="24" height="48" fill="url(#hatch1)"/>
-                <rect x="48" y="72" width="24" height="48" fill="url(#hatch1)"/>
-                <rect x="72" y="48" width="48" height="72" fill="url(#hatch1)"/>
-                <path d="M0,24 H120 M0,48 H120 M0,72 H120 M0,96 H120 M24,0 V120 M48,0 V120 M72,0 V120 M96,0 V120" stroke="#aaa" fill="none"/>
-                <rect width="120" height="120" stroke="#333" fill="none" stroke-width="2"/>
-            </svg>
-            <div class="diagram-caption">此心理效應</div>
-        </div>
-    </div>
-
-    <!-- 幾何級數圖示區 -->
-    <div class="diagram-row">
-        <div class="diagram-figure">
-            <svg class="svg-container" width="120" height="320" xmlns="http://www.w3.org/2000/svg">
-                <rect x="0" y="300" width="24" height="20" fill="url(#hatch1)"/>
-                <rect x="24" y="280" width="24" height="40" fill="url(#hatch1)"/>
-                <rect x="48" y="240" width="24" height="80" fill="url(#hatch1)"/>
-                <rect x="72" y="160" width="24" height="160" fill="url(#hatch1)"/>
-                <rect x="96" y="0" width="24" height="320" fill="url(#hatch1)"/>
-                <path d="M0,20 H120 M0,40 H120 M0,60 H120 M0,80 H120 M0,100 H120 M0,120 H120 M0,140 H120 M0,160 H120 M0,180 H120 M0,200 H120 M0,220 H120 M0,240 H120 M0,260 H120 M0,280 H120 M0,300 H120 M24,0 V320 M48,0 V320 M72,0 V320 M96,0 V320" stroke="#aaa" fill="none"/>
-                <rect width="120" height="320" stroke="#333" fill="none" stroke-width="2"/>
-            </svg>
-            <div class="diagram-caption">此物理事實</div>
-        </div>
-        <div class="arrow-text" style="align-self: center;">產生</div>
-        <div class="diagram-figure">
-            <svg class="svg-container" width="120" height="320" xmlns="http://www.w3.org/2000/svg">
-                <rect x="0" y="240" width="24" height="80" fill="url(#hatch1)"/>
-                <rect x="24" y="180" width="24" height="140" fill="url(#hatch1)"/>
-                <rect x="48" y="120" width="24" height="200" fill="url(#hatch1)"/>
-                <rect x="72" y="60" width="24" height="260" fill="url(#hatch1)"/>
-                <rect x="96" y="0" width="24" height="320" fill="url(#hatch1)"/>
-                <path d="M0,20 H120 M0,40 H120 M0,60 H120 M0,80 H120 M0,100 H120 M0,120 H120 M0,140 H120 M0,160 H120 M0,180 H120 M0,200 H120 M0,220 H120 M0,240 H120 M0,260 H120 M0,280 H120 M0,300 H120 M24,0 V320 M48,0 V320 M72,0 V320 M96,0 V320" stroke="#aaa" fill="none"/>
-                <rect width="120" height="320" stroke="#333" fill="none" stroke-width="2"/>
-            </svg>
-            <div class="diagram-caption">此心理效應</div>
-        </div>
-    </div>
-
-    <p>議的，依算術級數進行（1、2、3、4、5 等層）；接著在同一張紙的第二排，以幾何級數的方式操作（1、2、4、8、16 等層）。這兩排必須是同寬而相鄰的梯階。</p>
-
-    <p>為了正確比較這兩排色塊——分別以算術級數與幾何級數增加深度——必須務求精準。為此，應該避免使用水彩，<br>因為它很難塗抹均勻，常常要不是塗得太厚，就是會出現濃淡不平均的濃重邊緣。像膠捲一般顏色最淡且背後裱覆隔層紙的描圖紙是最佳工具，<br>因為隔層紙可以很容易組合，並且不會看到黏膠。<br>還有很多廠牌可供選擇，如 Zip-A-Tone、Artype 以及 Cello-tak。</p>
-
-    <p>如果無法取得這些描圖紙，非常薄的半透明紙（包裝三明治的蠟紙）或許可在透明且逆著光源觀察的情況下，呈現這兩種不同的效果。</p>
-
-    <p>用混濁色——反射光——來演練另一種效果：將最輕薄的白色層層塗敷於黑紙上，可以得到反向的證明——算術級數與幾何級數的增加或減少，將產生非常不一樣的效果。</p>
-
-    <p>這些練習也告訴我們，在區隔梯階的邊界上可以看到「減緩的增加幅度」：依算術級數進行的連續混色，其邊界會越變越模糊，然而依幾何級數的增加的混色中，其邊界會維持相同的清晰度。</p>
-
-    <p>當然，這樣的研究只有在理論上成立。因為材質上絲毫的不精準，都會讓此研究出現脫離該定律的結果。</p>
-
-    <p>儘管韋伯-費希納定律讓「等階增加」得以實現（特定色相的明度與深度），不過它會因為色彩的相對性出現偏差。</p>
-
-    <p>當梯階寬度不如它的高度時，這些梯階在視覺上就不會維持水平，或是呈現均衡的平面，如 58 頁的左圖所示。</p>
-
-    <p>而當梯階寬度較寬時，「凹槽」效應就會出現，有如多立克柱身的凹槽，如 58 頁的右圖所示。</p>
-
-    <p>韋伯-費希納定律有個深具說服力的戶外案例，就是漆成藍色的游泳池。因為光線反射，池水看似變成很淡的藍色。但當目光跟著階梯往下走時，會發現顏色越來越藍。因為每一階都等高，也等階加重了藍色。在這個算術比例的物理變化中，我們雙眼再度看到的是趨緩的幾何比例。</p>
-
-    <p>從上往下觀察這些階梯的邊緣時，它們看似越趨模糊。這個效果背後的成因有二：第一，當然顏色越藍時，明度同步遞減，區隔這些階梯的邊線也就越顯不清楚。第二，當藍色加重的比例趨緩的時候，相鄰的藍色的對比就會拉近。<br>因此這些區隔階梯的邊緣就顯得較不明晰。這兩個理由依循的皆是韋伯-費希納定律，與任何光線折射的定律無關。儘管光線的折射也會造成視覺感知的錯覺，它代表的是一種完全不同的原理，因為它是一種光學效果，然而韋伯-費希納定律解釋的，是一種視覺感知現象。</p>
-
-    <p>色彩工作者幾乎都不知道韋伯-費希納定律，這著實讓人覺得驚訝又遺憾。<br>它的重要性在物理界——天文學、電學與聲學——較受到推崇。爾後心理學界也認定其重要性——對於聲音、重量與溫度的感知——以及對於光與色彩的感知能力。（見圖例 20-1）<br>接下來與韋伯-費希納重要發現的相關討論，在視覺與陳述上都稍加簡化，以幫助大家了解，然而必須強調，韋伯-費希納的所有計算公式都是依對數級數（logarithmic progressions）進行，它在理論上並不會達到飽和點。</p>
-
-    <!-- 漸層感知圖示區 -->
-    <div class="diagram-row" style="justify-content: flex-start; gap: 30px;">
-        <div class="diagram-figure">
-            <svg class="svg-container" width="160" height="120" xmlns="http://www.w3.org/2000/svg">
-                <path d="M0,30 H160 M0,60 H160 M0,90 H160 M40,0 V120 M80,0 V120 M120,0 V120" stroke="#aaa" fill="none"/>
-                <rect width="160" height="120" stroke="#333" fill="none" stroke-width="2"/>
-            </svg>
-        </div>
-        <div class="diagram-figure">
-            <svg class="svg-container" width="160" height="120" xmlns="http://www.w3.org/2000/svg">
-                <rect x="0" y="0" width="40" height="120" fill="#f0f0f0"/>
-                <rect x="40" y="0" width="40" height="120" fill="#d0d0d0"/>
-                <rect x="80" y="0" width="40" height="120" fill="#a0a0a0"/>
-                <rect x="120" y="0" width="40" height="120" fill="#707070"/>
-                <path d="M0,30 H160 M0,60 H160 M0,90 H160 M40,0 V120 M80,0 V120 M120,0 V120" stroke="#aaa" fill="none"/>
-                <rect width="160" height="120" stroke="#333" fill="none" stroke-width="2"/>
-            </svg>
-            <div class="diagram-caption" style="text-align:left;">實際所見</div>
-        </div>
-    </div>
-</article>
+<p>在棕色和紫色兩個底色上，中央小方塊看似一旁底色的顏色——紫色與棕色。然而小色塊的顏色是完全一樣的，卻同時有如一旁底色的顏色。我們無法辨認兩個小色塊的真正顏色，它失去了真實的面貌。</p>
 
 </body>
 </html>
