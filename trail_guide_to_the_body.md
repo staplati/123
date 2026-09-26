@@ -26,7 +26,7 @@
 
 对较小结构可以使用1~2个手指指尖（图4）辅助定位，而探查较大结构时最好用整只手来触诊。通过描绘所触及结构的侧面和边缘，全手接触有助于感知一个区域或结构的完整形状，还可以更好地理解结构之间的毗邻关系（图5）。触诊时，时而闭上眼睛可进一步增强知觉敏感性。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_60bc88f22f017a49ac6d4a195ba9b0b5.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_60bc88f22f017a49ac6d4a195ba9b0b5.jpg" />
 
 **吃力做功与巧妙工作**
 
@@ -46,13 +46,13 @@
 
 在用手体会骨的形状或边缘时，请尝试用手指在骨表面滚动滑过，而不是用手在其表面按压，这就类似刀刃滑过手指以检查其锋利程度。对那些粘连的肌组织，我们就该用像轻抚刀刃一样的手法，就像用手指弹拨吉他的琴弦一般。这种方法有助于你确定肌纤维的方向和紧张状态（图8）。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_dd3f1c17c968fd8ddd0201d48d5a789e.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_dd3f1c17c968fd8ddd0201d48d5a789e.jpg" />
 
 **动和静**
 
 如果将报纸的质地与粗糙的砂纸进行比较，你自然会想到用手指摩擦它们的表面。相反，当你把手放在孕妇的腹部，希望能感觉到胎动的时候，手自然会保持静止不动。同样，当你想要确定肌纤维的方向或感知骨的形状时，一定要沿着其表面移动手指（图9）。但是，当你想要感受肌肉收缩或骨移动时，请保持双手静止并跟随运动。简而言之，如果触摸的结构是静止的，请移动你的手；如果它在活动，就保持静止。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_0d1bfcf7a4e011178d9b57f9374bae16.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_0d1bfcf7a4e011178d9b57f9374bae16.jpg" />
 
 **把关节运动作为学习触诊的工具**
 
@@ -66,7 +66,7 @@
 
 抵抗运动则需要你和受检者共同完成，是指受检者对你温和的动作采取相反的拮抗动作。例如“要感觉到肘部屈肌收缩，请让受检者抵抗你施加给他的屈肘力量”（图12）。当他遇到你手上适当的阻力时，受检者的肘部不会发生任何运动。在本文中，抵抗运动主要用于区分和比较不同肌腹和肌腱的长度、形状和范围。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_7370a61d6248afbfc99641d213a58344.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_7370a61d6248afbfc99641d213a58344.jpg" />
 
 **当有疑惑时，别忘了请教人体**
 
@@ -110,7 +110,7 @@
 
 你如何触摸那些深层肌呢？在某些区域，原本位于浅层的肌可以被推至侧面；有时，你可以使用不同的肌肉质地和纤维方向作为指引，将指尖从浅表肌慢慢嵌入深层肌中，这就类似于透过毛衣、衬衫和皮肤触摸前臂肌。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_ecdc22a1ae55c8d8491e0c405ab4be8a.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_ecdc22a1ae55c8d8491e0c405ab4be8a.jpg" />
 
 > [!note]
 > **肌**
@@ -123,7 +123,7 @@
 
 肌腱形状多样，大小不同。有些短而宽，如臀部的臀大肌。有些则长而细，如手腕部的肌腱。宽大而平坦的肌腱称为腱膜，如背阔肌腱膜，或帽状腱膜，可延伸至颅骨顶部。无论其形状如何，所有肌腱都光滑而坚韧，富有弹性。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_abd8300ab7723ac15de7aa07101e1c8b.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_abd8300ab7723ac15de7aa07101e1c8b.jpg" />
 
 > [!note]
 > **肌腱**
@@ -148,7 +148,7 @@
 
 由于筋膜系统无处不在，其形态没有特异性，需要经验丰富、触觉灵敏的功底才能进行精确触诊。下一页提供3个简单的操作练习，帮助你了解筋膜与其他结构的关系。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_50d86ba1b05d43a930123c870402fbb5.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_50d86ba1b05d43a930123c870402fbb5.jpg" />
 
 > [!note]
 > **探查筋膜**
@@ -216,7 +216,7 @@
 
 水平面是将人体分为上下两部分的平面，与上、下术语有关，旋转发生在该平面。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_64290285189810e30ae4a2943243c1fc.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_64290285189810e30ae4a2943243c1fc.jpg" />
 
 **方向和位置**
 
@@ -234,7 +234,7 @@
 
 浅，指一个结构靠近人体表面。深，指一个结构在人体较深的部位。如胸大肌在肋的浅面，肋在胸大肌的深面（图1.10）。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_ca6265f21d8e9bfab3b9aaccf13ae39b.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_ca6265f21d8e9bfab3b9aaccf13ae39b.jpg" />
 
 **运动术语**
 
@@ -266,67 +266,67 @@
 
 对掌运动（图 1.32）只出现在拇指的腕掌关节，发生在拇指的掌面跨越掌心与小指掌面相接触时。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_86e76fcbdcc7b3578c1b1dfae923f720.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_86e76fcbdcc7b3578c1b1dfae923f720.jpg" />
 
 ## 人体运动
 
 **脊椎和胸部（胸椎）**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_983f0ce48c95ae56eff7636f9fb84cb6.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_983f0ce48c95ae56eff7636f9fb84cb6.jpg" />
 
 **颈部（颈椎）**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_62d97f37cbbcba88677b63a1084f72ab.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_62d97f37cbbcba88677b63a1084f72ab.jpg" />
 
 **肋骨 / 胸廓**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_fb48a91cdd94396193b8d7af386e700a.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_fb48a91cdd94396193b8d7af386e700a.jpg" />
 
 **肩胛骨（肩胛胸关节）**
 
 肩胛骨也可以前倾或后倾。对于前倾，喙突移向前方而肩胛下角移向后方。后倾则发生相反的运动。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_2af88955d517d84e29b30d3b2ec4d771.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_2af88955d517d84e29b30d3b2ec4d771.jpg" />
 
 **肩（盂肱关节）**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_36877f453a64195f99b76ab5208dd96d.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_36877f453a64195f99b76ab5208dd96d.jpg" />
 
 **肘和前臂（肘部的肱尺关节和肱桡关节，前臂的桡尺近侧和远侧关节）**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_3fa9937e9579bd767d1c74bcbe5e41c8.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_3fa9937e9579bd767d1c74bcbe5e41c8.jpg" />
 
 **腕（桡腕关节）**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_f3a6ec05414f2096cc2c2345bef230b3.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_f3a6ec05414f2096cc2c2345bef230b3.jpg" />
 
 **拇指（第1腕掌关节和第1掌指关节）**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_0017ca46ac86f86c9bbf156112e41a07.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_0017ca46ac86f86c9bbf156112e41a07.jpg" />
 
 **指（掌指关节、远近指骨间关节）**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_0583c4249efecd751b84212a9295e05f.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_0583c4249efecd751b84212a9295e05f.jpg" />
 
 **下颌（颞下颌关节）**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_3b4d2e3c7a1f8026b4c575385dc3363a.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_3b4d2e3c7a1f8026b4c575385dc3363a.jpg" />
 
 **骨盆**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_3d90a63d18e62ab53b5bddc38867fb95.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_3d90a63d18e62ab53b5bddc38867fb95.jpg" />
 
 **臀（髋关节）**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_63f8cec71bfaeec47486c3f97ce9bd8c.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_63f8cec71bfaeec47486c3f97ce9bd8c.jpg" />
 
 **膝（胫股关节）**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_05eab1a6bce76bb890148be4678e179d.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_05eab1a6bce76bb890148be4678e179d.jpg" />
 
 **踝、足和足趾（距小腿关节、跗骨间关节、跗跖关节、跖趾关节和趾骨间关节）**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_494f6d93488ca5cf1ef8eece8f35f5ba.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_494f6d93488ca5cf1ef8eece8f35f5ba.jpg" />
 
 ## 人体系统
 
@@ -388,7 +388,7 @@
 
 ## 筋膜
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_0a6df988300bfc05d48fed3c91ce9b35.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_0a6df988300bfc05d48fed3c91ce9b35.jpg" />
 
 > [!note]
 > **探查背部**
@@ -421,7 +421,7 @@
 
 肩胛冈为表浅的骨嵴，位于肩关节顶部稍下方，走行角度稍倾斜，横跨于肩峰和内侧缘之间。它是三角肌后部肌束和斜方肌中下部肌束的附着点。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_dcc5779e4df5b51e333c8c485f6a191c.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_dcc5779e4df5b51e333c8c485f6a191c.jpg" />
 
 > [!note]
 > **肩胛冈**
@@ -435,7 +435,7 @@
 
 内侧缘是肩胛骨的长缘，与脊柱平行。根据体形不同，它的长度为12~17 cm。内侧缘位于斜方肌深面，是菱形肌和前锯肌的附着点。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e06eaea96dead8c41818bf4cac9f51ae.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e06eaea96dead8c41818bf4cac9f51ae.jpg" />
 
 > [!note]
 > **内侧缘**
@@ -450,7 +450,7 @@
 
 肩胛骨有2个角，内侧缘的两端各有1个。下角表浅，位于内侧缘下端。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_89cb8944615574beac44409a7ad23617.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_89cb8944615574beac44409a7ad23617.jpg" />
 
 > [!note]
 > **下角**
@@ -464,7 +464,7 @@
 
 上角位于内侧缘上端。它是肩胛提肌的附着点。因为上角位于斜方肌的深面，所以它不像下角那样容易分辨。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_23c26f8b5224d7b392af14b9c5901505.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_23c26f8b5224d7b392af14b9c5901505.jpg" />
 
 > [!note]
 > **上角**
@@ -481,7 +481,7 @@
 
 外侧缘自下角向外上方延伸至腋窝。它是大圆肌和小圆肌的附着点，因为这些肌较厚，外侧缘不像内侧缘那样能清晰辨认。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_2d7c0f407464a4116ed63762c11e9b21.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_2d7c0f407464a4116ed63762c11e9b21.jpg" />
 
 > [!note]
 > **外侧缘**
@@ -499,7 +499,7 @@
 
 探查盂下结节常会诱发其周围组织的疼痛。使用拇指指腹可更准确地触诊而不引起疼痛。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_f1d154abc1a3a2ae964ca985e0e2689f.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_f1d154abc1a3a2ae964ca985e0e2689f.jpg" />
 
 > [!note]
 > **孟下结节**
@@ -513,7 +513,7 @@
 
 肩胛骨有3个窝或者凹陷：冈下窝、冈上窝和肩胛下窝。每个窝都容纳一块肌肉的肌腹和肌腱。冈下窝是肩胛冈下方的三角形区域，容纳冈下肌。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_3348d5f8f1f64eeb9de6055bcb92e06c.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_3348d5f8f1f64eeb9de6055bcb92e06c.jpg" />
 
 > [!note]
 > **冈下窝**
@@ -526,7 +526,7 @@
 
 冈上窝位于肩胛冈上方。它的范围很小，但却较深。因为冈上肌充填于冈上窝内，所以冈上窝难以触及。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_5c8e129702ea7758bc33f4aef0a1fa52.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_5c8e129702ea7758bc33f4aef0a1fa52.jpg" />
 
 > [!note]
 > **冈上窝**
@@ -541,7 +541,7 @@
 
 肩胛下窝位于肩胛骨前面，靠近胸廓。它是肩胛下肌和前锯肌的附着点。触摸这个窝具有挑战性，因为肩胛骨紧邻胸廓，周围有许多肌肉充填。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_b67c7abc5203172fc1f90be1ef236e29.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_b67c7abc5203172fc1f90be1ef236e29.jpg" />
 
 > [!note]
 > **肩胛下窝**
@@ -563,7 +563,7 @@
 
 肩峰角是个小角，沿肩峰的后外侧面可感觉到。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_bf76ab8eb729706606db4c5f841b35e9.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_bf76ab8eb729706606db4c5f841b35e9.jpg" />
 
 > [!note]
 > **肩峰**
@@ -578,7 +578,7 @@
 
 锁骨表浅、水平横架于胸上部，呈轻度“S”形。它是多个肌的附着点。锁骨两端均表浅、易触及。外侧端相对扁平，略高于肩峰。内侧端呈圆形，与胸骨相关节。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_94854faf5dcccb88702e9bb35400eb58.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_94854faf5dcccb88702e9bb35400eb58.jpg" />
 
 > [!note]
 > **锁骨**
@@ -596,7 +596,7 @@
 
 胸锁关节是锁骨胸骨端和胸骨之间的关节。胸锁关节不像肩锁关节那样纤细、扁平，而是呈楔形，包含一个不能被触及的小纤维盘。休息时，胸骨端只有下部与胸骨相接触。当锁骨上提时，胸骨端在胸骨上旋转。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_48273c43b412ccb7ea99616df4fd8bc1.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_48273c43b412ccb7ea99616df4fd8bc1.jpg" />
 
 > [!note]
 > **肩锁关节**
@@ -619,7 +619,7 @@
 
 肩胛骨的喙突是锁骨干下方的鸟嘴样突起。根据肩胛骨的位置，它常位于三角肌和胸大肌纤维之间的三角肌胸大肌间沟内。触摸喙突会有疼痛，因此检查时应小心。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_20da48667cb48a3b2870b19c05ee9dae.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_20da48667cb48a3b2870b19c05ee9dae.jpg" />
 
 > [!note]
 > **探查喙突**
@@ -634,7 +634,7 @@
 
 三角肌粗隆位于肱骨干中点的外侧面。它是小而低的突起，是三角肌会聚纤维的附着点。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_db01db2bd5f34f2bc4747668e4c3b114.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_db01db2bd5f34f2bc4747668e4c3b114.jpg" />
 
 > [!note]
 > **探查三角肌粗隆**
@@ -651,7 +651,7 @@
 
 小结节小于大结节，是第4块肩袖肌——肩胛下肌的附着点。结节间沟介于大、小结节之间，直径约是一根铅笔的宽度。肱二头肌长头腱位于沟内，触摸时会有疼痛，因此在这个区域要轻柔触诊。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_8ab08b2cbdb2fe56edc2d1debdea5398.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_8ab08b2cbdb2fe56edc2d1debdea5398.jpg" />
 
 > [!note]
 > **肱骨大结节**
@@ -672,11 +672,11 @@
 
 **肩关节（盂肱关节）**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_3107bb53a9db7d90424824d9ba5f7c93.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_3107bb53a9db7d90424824d9ba5f7c93.jpg" />
 
 **肩胛骨（肩胛胸关节）**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_7908337d35e4f694eedecc8e9c36c2b8.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_7908337d35e4f694eedecc8e9c36c2b8.jpg" />
 
 ## 肌
 
@@ -692,7 +692,7 @@
 
 三角肌纤维分为前、中、后三部。所有这三部都参与肱骨外展，但是前部和后部肌束在肩关节屈伸、旋内和旋外时是互为拮抗的。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_1e960b43cd208648cf487391fe5ac5d3.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_1e960b43cd208648cf487391fe5ac5d3.jpg" />
 
 > [!note]
 > **三角肌肌腹**
@@ -717,7 +717,7 @@
 
 斜方肌的纤维可分为3部分：上部（降部）、中部和下部（升部）肌束。上部和下部肌束分别在上提和下降肩胛骨时互为拮抗肌。斜方肌的所有纤维都易于触及。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_716c0080ecded25e6ce7b92b0fac6ee1.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_716c0080ecded25e6ce7b92b0fac6ee1.jpg" />
 
 > [!note]
 > **斜方肌上部肌束**
@@ -759,7 +759,7 @@
 
 背阔肌和大圆肌有时被称为“手铐肌”，因为它们共同作用使手臂成“被捕”姿势！
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_44e7d8ec1059020c29299e82a93bae14.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_44e7d8ec1059020c29299e82a93bae14.jpg" />
 
 > [!note]
 > **背阔肌**
@@ -813,7 +813,7 @@
 
 肩胛下肌位于肩胛骨前面，夹在肩胛下窝和前锯肌之间。它仅有一小部分肌腹可触及，是肩袖中唯一附着于肱骨小结节的肌，可使肩关节内旋。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_23edc438e40b882eff3beed2303169ce.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_23edc438e40b882eff3beed2303169ce.jpg" />
 
 > [!note]
 > **冈上肌**
@@ -856,7 +856,7 @@
 
 这个难题是可以解决的，将手放置在肱骨表面显示的位置上，隔离单个肌腱。因为肩袖肌腱位于肱骨大、小结节表面，无法从肱骨上分离出来。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_f7fb08a64ef5b88260feed8ee3085d3a.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_f7fb08a64ef5b88260feed8ee3085d3a.jpg" />
 
 > [!note]
 > **冈上肌肌腱**
@@ -909,7 +909,7 @@
 
 菱形肌位于肩胛骨和脊柱之间。以其几何形状命名，大菱形肌比小菱形肌稍大，二者不易区分。菲薄的肌纤维位于斜方肌深面和竖脊肌表面。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_8f91716dfad10f28b9d469787f3c9086.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_8f91716dfad10f28b9d469787f3c9086.jpg" />
 
 > [!note]
 > **菱形肌**
@@ -936,7 +936,7 @@
 
 通过斜方肌上部纤维或直接从颈部侧面触诊，可完全触及肩胛提肌。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_d547728d8d92399ab574b8737fc8cba7.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_d547728d8d92399ab574b8737fc8cba7.jpg" />
 
 > [!note]
 > **肩胛提肌**
@@ -967,7 +967,7 @@
 
 沿着肋骨的侧面触诊会发痒，所以要缓慢、用力地按压。此外，如果你要触诊受检者右侧前锯肌，站在床的左边操作会方便些。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e7f6e062658bc855a458cd8d52bb4da3.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e7f6e062658bc855a458cd8d52bb4da3.jpg" />
 
 > [!note]
 > **前锯肌**
@@ -995,7 +995,7 @@
 
 胸大肌位于胸部，宽阔而有力。胸大肌除位于乳房组织下方的部分外，其余向肱骨会聚的表浅肌纤维可触摸到。胸大肌分为锁骨部、胸骨部和肋骨部3部分。上部与下部肌纤维在肩关节屈伸时起相反作用，成为拮抗肌。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_1d186d781008331dff779f020da8b341.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_1d186d781008331dff779f020da8b341.jpg" />
 
 > [!note]
 > **胸大肌**
@@ -1028,7 +1028,7 @@
 
 探查胸小肌可以通过按压胸大肌或在胸大肌下方滑动的方法。在胸大肌下方触摸胸小肌的方法更加容易。触摸胸小肌会有痛感，因此手指要缓慢下沉到肌组织内。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e2406769277b1f6f0e3c198e3ecb45c3.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e2406769277b1f6f0e3c198e3ecb45c3.jpg" />
 
 > [!note]
 > **胸小肌**
@@ -1048,7 +1048,7 @@
 
 对于爬行动物(四足动物)，锁骨下肌很发达，在运动过程中对稳定锁骨和肩带起着重要作用。而人类的锁骨下肌较小，并不重要。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_31df38fa186e1e1efe6669b8d227d236.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_31df38fa186e1e1efe6669b8d227d236.jpg" />
 
 > [!note]
 > **锁骨下肌**
@@ -1065,7 +1065,7 @@
 
 肱二头肌肌腱止于肘窝内的桡骨，使前臂旋后。大部分肱二头肌均易触及。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_9ef8571dd726759634f1601d7914886b.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_9ef8571dd726759634f1601d7914886b.jpg" />
 
 > [!note]
 > **肱二头肌**
@@ -1087,7 +1087,7 @@
 
 因为肱二头肌长头腱位于肱骨结节间沟，并与三角肌浅层纤维走行方向平行，因此很难将其真正分离开。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_96e338f5b5aea57e4737d56cddbb0fbd.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_96e338f5b5aea57e4737d56cddbb0fbd.jpg" />
 
 > [!note]
 > **肱二头肌长头腱**
@@ -1110,7 +1110,7 @@
 
 肱三头肌除了位于三角肌深面的近端部分外，其余部分都较表浅，易触及。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_7d0afca26dbf98695295b29b467d5f4c.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_7d0afca26dbf98695295b29b467d5f4c.jpg" />
 
 > [!note]
 > **肱三头肌**
@@ -1125,7 +1125,7 @@
 
 肱三头肌长头是唯一沿着臂部内侧浅层走行的肌，这些解剖特点具有定位作用。三角肌与肱三头肌长头相比，其纤维走行较为倾斜。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_a8bcad3fe1876664e9c32e50988f9bd7.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_a8bcad3fe1876664e9c32e50988f9bd7.jpg" />
 
 > [!note]
 > **肱三头肌长头腱**
@@ -1147,7 +1147,7 @@
 
 喙肱肌是位于腋窝的条索状小肌。有时被认为是腋窝内的肌，辅助内收、前屈肩关节。处于解剖学姿势时，喙肱肌位于胸大肌和三角肌前部纤维的深面，腋动脉和臂丛的前方。肩关节外展位易于探查到喙肱肌腹。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_aa807d153df5df1a567f9267358ea5a2.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_aa807d153df5df1a567f9267358ea5a2.jpg" />
 
 > [!note]
 > **喙肱肌**
@@ -1166,7 +1166,7 @@
 
 在锁骨和喙突之间或弯向锁骨前表面的下方均可触及喙锁韧带。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_58375703487112a0b1d5b70d02da90a5.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_58375703487112a0b1d5b70d02da90a5.jpg" />
 
 > [!note]
 > **喙锁韧带**
@@ -1181,7 +1181,7 @@
 
 大多数韧带是将两块骨连接在一起，而喙肩韧带不同。它将肩胛骨的喙突与肩峰连接起来。该韧带与肩峰一起形成横跨肩顶部的喙肩弓，有助于保护肩袖肌腱和肩峰下囊免受肩峰的直接撞击。宽阔的喙肩韧带位于三角肌深面，但仍可触及。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_70dad0167673b76aa9c56355a36a4ad0.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_70dad0167673b76aa9c56355a36a4ad0.jpg" />
 
 > [!note]
 > **喙肩韧带**
@@ -1198,7 +1198,7 @@
 
 臂部置于体侧。大部分滑囊位于肩峰下方，不易触及。但后伸肩关节可使滑囊移向前方。由于肩部外展压迫滑囊，这个动作（当伴有疼痛和压痛时）可作为肩峰下滑囊炎的指标。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_9b9c4320e49606870625893e68b9f202.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_9b9c4320e49606870625893e68b9f202.jpg" />
 
 > [!note]
 > **肩峰下囊**
@@ -1211,7 +1211,7 @@
 
 腋淋巴结位于腋窝。当在腋区触诊时，轻柔地触诊可以避免痒感的发生。另外，缓慢而轻柔地按压可避免对神经和血管的刺激。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_c5ea8b5faa36ccdaea1ee48795297571.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_c5ea8b5faa36ccdaea1ee48795297571.jpg" />
 
 > [!note]
 > **腋淋巴结**
@@ -1224,7 +1224,7 @@
 
 肱动脉是腋动脉的延续，走行于肱二头肌和肱三头肌之间。其搏动可在上臂内侧的这两块肌之间触及。在肱动脉分为桡动脉和尺动脉之前，可在肘部肱二头肌肌腱内侧触摸到搏动。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_5ff7a803d6faab6719b11542a82b06dc.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_5ff7a803d6faab6719b11542a82b06dc.jpg" />
 
 > [!note]
 > **肱动脉**
@@ -1246,7 +1246,7 @@
 
 ## 筋膜
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_5b1f4995176502d5b5587371f64ad8ae.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_5b1f4995176502d5b5587371f64ad8ae.jpg" />
 
 > [!note]
 > **前臂**
@@ -1270,7 +1270,7 @@
 
 鹰嘴窝是肱骨远端背侧的一个凹陷，在伸肘时可以容纳尺骨鹰嘴。它位于肱三头肌腱附着处的深面，仅部分可触及。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_7f62fcd110385738d9671d4dd90800b3.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_7f62fcd110385738d9671d4dd90800b3.jpg" />
 
 > [!note]
 > **鷹嘴**
@@ -1292,7 +1292,7 @@
 
 外上髁在尺骨鹰嘴的外侧，较内上髁小，它也是伸指、伸腕肌腱的附着处。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_da732c98d104a783601ce1f8bce4b930.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_da732c98d104a783601ce1f8bce4b930.jpg" />
 
 > [!note]
 > **肱骨内、外上髁**
@@ -1307,7 +1307,7 @@
 
 这两条髁上嵴均由肱骨远端对应的上髁延伸而来，都是前臂肌的附着点。外侧髁上嵴位置表浅，内侧髁上嵴逐渐行向臂内侧，并靠近尺神经。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_deefd5c675ba36938a27ab9c22934488.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_deefd5c675ba36938a27ab9c22934488.jpg" />
 
 > [!note]
 > **肱骨髁上嵴**
@@ -1322,7 +1322,7 @@
 
 长而直的尺骨干从鹰嘴延伸到尺骨头，虽然周边有一些肌附着，但在前臂的后内侧面还是可以明显触摸到该表浅骨嵴。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_5f56109f28ef539b1b4f48e1c870147f.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_5f56109f28ef539b1b4f48e1c870147f.jpg" />
 
 > [!note]
 > **尺骨干**
@@ -1336,7 +1336,7 @@
 
 尺骨干在远端增宽形成尺骨头，在腕关节的后内侧面，可见一表浅的球形突起，可阻止手表带的下滑。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_7039f3f433d267522205227d2f040a8c.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_7039f3f433d267522205227d2f040a8c.jpg" />
 
 > [!note]
 > **尺骨头**
@@ -1350,7 +1350,7 @@
 
 尺、桡骨的远侧端都有茎突。桡骨茎突较大且向远侧延伸更多。尺骨茎突相对较尖，在体表更加显著。它像牙一样指向远侧。它位于腕关节的后内侧面。两个茎突在体表都较表浅，前臂肌的肌腱在其旁边经过。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_1ff341d69d0444f2ba7f52dab0d79731.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_1ff341d69d0444f2ba7f52dab0d79731.jpg" />
 
 > [!note]
 > **尺骨茎突**
@@ -1364,7 +1364,7 @@
 
 桡骨头在肱骨外上髁的远端，呈钟状形成桡骨的近端。它由环状韧带稳定，是前臂旋前和旋后的旋转点。虽然位于旋后肌和伸肌的深面，桡骨头的后外侧面仍可触摸到。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_24580fd8f6bbd41cd2b3d04ab3ffc909.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_24580fd8f6bbd41cd2b3d04ab3ffc909.jpg" />
 
 > [!note]
 > **桡骨头**
@@ -1379,7 +1379,7 @@
 
 桡骨干在前臂外侧（拇指侧）。与尺骨干不同的是桡骨干大部分都包在肌肉内，其远端比较表浅，可以清楚触摸到。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_c55b05c988eb34ecb2b5713bc00d86b0.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_c55b05c988eb34ecb2b5713bc00d86b0.jpg" />
 
 > [!note]
 > **桡骨头**
@@ -1394,7 +1394,7 @@
 
 桡骨茎突与齿状的尺骨茎突相比，更加宽大坚固。在桡骨的外侧，桡骨茎突被伸肌腱包绕，同时它也是肱桡肌的附着处。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_3e379d66bf9b73f0435e9f46cd3aba21.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_3e379d66bf9b73f0435e9f46cd3aba21.jpg" />
 
 > [!note]
 > **桡骨头**
@@ -1408,7 +1408,7 @@
 
 为纪念现代无菌手术的先行者 Joseph Lister 而命名。其为一表浅的骨性突起，位于桡骨茎突的背侧面。呈长椭圆形 的 Lister 结节（也称背侧结节），以骨性支点约束拇长伸肌腱。你可以把它作为寻找月骨和头状骨的骨性标志。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_111fb9fa1c53231e386b924d0aeb7fb0.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_111fb9fa1c53231e386b924d0aeb7fb0.jpg" />
 
 > [!note]
 > **Lister 结节**
@@ -1427,7 +1427,7 @@
 
 接下来我们将详细介绍腕骨的组成，首先将其看成一个整体，然后再进一步介绍比较容易区分的豌豆骨、三角骨、钩骨。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_f7fdb6ccd31215fe55650ef23c00480a.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_f7fdb6ccd31215fe55650ef23c00480a.jpg" />
 
 > [!note]
 > **作为整体的腕骨**
@@ -1442,7 +1442,7 @@
 
 豌豆骨外表不光滑，位于腕关节的尺掌侧，紧贴腕横纹的远端，是尺侧腕屈肌的止点。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_46dbc20f5077cd6ec49655a5455c6117.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_46dbc20f5077cd6ec49655a5455c6117.jpg" />
 
 > [!note]
 > **豌豆骨**
@@ -1456,7 +1456,7 @@
 
 锥形的三角骨位于豌豆骨的背侧、尺骨茎突的远端。中立位时，仅豌豆骨背侧面可以触摸到，但是当外展腕关节时可以触摸到位于腕关节尺侧的三角骨。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_f40ebe458aa00c1bf666db2128c35ca0.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_f40ebe458aa00c1bf666db2128c35ca0.jpg" />
 
 > [!note]
 > **三角骨**
@@ -1470,7 +1470,7 @@
 
 将你的手放在豌豆骨的远端，可以触摸到钩骨的小骨性突起，在手掌侧形成钩子样结构。豌豆骨和钩骨钩是腕横韧带的附着处，连接此处延展开的组织形成了腕管的“顶”。在手掌背侧，第4、5掌骨基底处可以触摸到钩骨的平滑面。触诊时钩骨钩常较韧。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_1bfbe1edfdad7b0906652fadad40a8cf.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_1bfbe1edfdad7b0906652fadad40a8cf.jpg" />
 
 > [!note]
 > **钩骨**
@@ -1484,7 +1484,7 @@
 
 船状的手舟骨是最常发生骨折的腕骨。它在手的桡侧、桡骨茎突的远端。虽然它构成了“解剖学鼻烟窝”内肌腱的底，但仍可以在手的背侧、掌侧和桡侧触摸到。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_6a45c3c82a9a05acb254af4fac9db6d1.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_6a45c3c82a9a05acb254af4fac9db6d1.jpg" />
 
 > [!note]
 > **手舟骨**
@@ -1501,7 +1501,7 @@
 
 大多角骨的大部分都可以在手的桡侧和背侧触摸到，既可以从手舟骨的远端，也可以从第1掌骨的近端分离开。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_fcd864199827d737c40c8651dc091e80.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_fcd864199827d737c40c8651dc091e80.jpg" />
 
 > [!note]
 > **大多角骨**
@@ -1515,7 +1515,7 @@
 
 舟骨结节和大多角骨结节是屈肌支持带的外侧附着处，连接在内、外侧附着处间的组织形成了腕管的“顶”。所有的结节都在腕关节的掌侧面，靠近腕横纹处。通常两个结节位置靠近，常不易区分开。但是它们还是可以被单独或整体触摸到。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_1f25609d2cc9647db8d6d052174258b0.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_1f25609d2cc9647db8d6d052174258b0.jpg" />
 
 > [!note]
 > **舟骨结节和大多角骨结节**
@@ -1534,7 +1534,7 @@
 
 虽然月骨和头状骨都位于伸肌腱的底部，但都可以在背侧触摸到，并且在 Lister 结节和第3掌骨干之间可以分离。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_423b9342049438462e418f7a2ce44cd2.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_423b9342049438462e418f7a2ce44cd2.jpg" />
 
 > [!note]
 > **月骨和头状骨**
@@ -1558,23 +1558,23 @@
 
 **肘关节（肱尺和肱桡关节）**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_7ee681293b312ba99845d14710bf86a4.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_7ee681293b312ba99845d14710bf86a4.jpg" />
 
 **前臂（桡尺近侧和远侧关节）**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_b0adccd0da08c246065f7d7e1f0ef49b.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_b0adccd0da08c246065f7d7e1f0ef49b.jpg" />
 
 **腕（桡腕关节）**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_f4261e696607054e4465d37ca0d0a7d2.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_f4261e696607054e4465d37ca0d0a7d2.jpg" />
 
 **手和手指（掌指关节，近侧和远侧指骨间关节）**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_da3f8a5d71cede006a58e949dba8d9ca.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_da3f8a5d71cede006a58e949dba8d9ca.jpg" />
 
 **拇指（第1腕掌关节和第1掌指关节）**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_b880eb90f3e788101932167e9ffc9d63.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_b880eb90f3e788101932167e9ffc9d63.jpg" />
 
 ## 肌
 
@@ -1591,7 +1591,7 @@
 
 虽然肱肌位于肱二头肌的深面，但是肱肌的部分肌腹还是可以被触摸到。它的外侧缘在肱二头肌和肱三头肌之间，此处较表浅可触及。肱肌远侧部在肱二头肌两侧超出的部分也可触摸到。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_ebd79890582a4cbdec268a633e11cc85.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_ebd79890582a4cbdec268a633e11cc85.jpg" />
 
 > [!note]
 > **肱肌**
@@ -1617,7 +1617,7 @@
 
 肱桡肌在前臂桡侧非常表浅，肌腹呈长圆形，在前臂外侧参与形成屈肌和伸肌间的分割线。肱桡肌肌腹在前臂下1/2处逐渐移行成肌腱。它是唯一走行于前臂全长却不越过腕关节的肌。当对抗肘关节屈曲时，其在前臂比较突出，且可以轻松地分辨出来。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_974f37784adc064e8fc979a747514d7c.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_974f37784adc064e8fc979a747514d7c.jpg" />
 
 > [!note]
 > **肱桡肌**
@@ -1634,7 +1634,7 @@
 
 肱桡肌及尺骨干可以作为两肌群的分割线。这两个结构位置都比较表浅且位于前臂的相对侧，二者的连线可以区分伸、屈肌群。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_593fa4e0c6a14f24480f3f85538e20ff.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_593fa4e0c6a14f24480f3f85538e20ff.jpg" />
 
 > [!note]
 > **屈肌和伸肌**
@@ -1673,7 +1673,7 @@
 
 桡侧腕长伸肌和桡侧腕短伸肌都位于肱桡肌的后外侧。尺侧腕伸肌，顾名思义在尺骨干的旁边。指伸肌在这些肌之间，分出4条长的表浅的肌腱附着于手指的背侧。小指伸肌有时也被看成一条单独的肌，实际上它是指伸肌的最内侧部分分出一条肌腱附于小指。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_9486cf40affe4608ebe664d24f4c9d28.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_9486cf40affe4608ebe664d24f4c9d28.jpg" />
 
 > [!note]
 > **伸肌群**
@@ -1711,7 +1711,7 @@
 
 肘肌是位于尺骨鹰嘴外侧的一个较弱小的伸肘肌。呈三角形，起自肱骨外上髁，扇形止于尺骨干。肘肌比较表浅，但是难以从周围众多的伸肌中出区分开。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_91033c3b15f8357a615866d26e401752.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_91033c3b15f8357a615866d26e401752.jpg" />
 
 > [!note]
 > **肘肌**
@@ -1761,7 +1761,7 @@
 
 中间层和深层包含有指浅屈肌和指深屈肌的宽大肌腹。每一个指屈肌都有4条细小肌腱，穿过腕管，最终附于指骨上。指屈肌的肌腹不易被触摸到，但是它们在浅层屈肌深面的力度还是可以感受到。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_2fe84239c7d070f540afc9a28267a334.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_2fe84239c7d070f540afc9a28267a334.jpg" />
 
 > [!note]
 > **屈肌群**
@@ -1812,7 +1812,7 @@
 
 旋前圆肌在前臂前面，圆形的肌被肱桡肌和和前臂屈肌覆盖。部分肌腹比较表浅，也是该区域唯一斜行的肌。旋前圆肌是肱二头肌和旋后肌的拮抗肌（端着碗汤的动作），它可以使前臂旋前（“将碗里的汤洒出来的动作”）。肱二头肌腱的远端，即旋前圆肌外侧，是定位旋前圆肌的体表标志。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_2be03760ad88927eaa9d33246c84d111.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_2be03760ad88927eaa9d33246c84d111.jpg" />
 
 > [!note]
 > **旋前圆肌**
@@ -1828,7 +1828,7 @@
 
 尽管旋前方肌的肌力强度和速度都比旋前圆肌要差，但是这块小方肌依然对前臂旋前起到重要作用。它的肌纤维横行于屈肌腱和前臂的神经血管的深面。除肌的外侧部，其他大部都不能触及。被触摸到的小的窗口部位也是桡动脉所在的位置，你可以轻轻地触摸此处。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_87e9e7149d72adcf10068fdca8fd3e4d.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_87e9e7149d72adcf10068fdca8fd3e4d.jpg" />
 
 > [!note]
 > **旋前方肌**
@@ -1848,7 +1848,7 @@
 
 旋后肌在肘关节外侧，这块短小的肌在前臂伸肌腱的深面，桡骨头的浅面。顾名思义，该肌可以将前臂旋后，是旋前圆肌的拮抗肌。其肌腹较纤细不容易区分开。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_51d0e662e5a3e97eebaec664c856a422.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_51d0e662e5a3e97eebaec664c856a422.jpg" />
 
 > [!note]
 > **旋后肌**
@@ -1877,7 +1877,7 @@
 
 拇长屈肌的肌腹位于前臂前面，在屈腕肌的深面不能够触摸到。它肌腱较长，远端穿过腕管，经过鱼际肌群向远端止于拇指远节指骨。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_1d0112708142db3585c34ff5ee137423.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_1d0112708142db3585c34ff5ee137423.jpg" />
 
 > [!note]
 > **解剖学鼻烟窝和拇指的长肌**
@@ -1894,7 +1894,7 @@
 
 拇指最大最强壮的短肌是拇收肌，它位于掌侧的深面，主要作用是将拇指与示指和中指靠拢（内收），有时可以在虎口区触摸到该肌。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_309e91a3613c09c749e62d885ff21e75.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_309e91a3613c09c749e62d885ff21e75.jpg" />
 
 > [!note]
 > **拇指的短肌**
@@ -1906,7 +1906,7 @@
 
 蚓状肌在手的掌侧，起自指深屈肌腱的一侧。蚓状肌的深部，骨间掌侧肌在掌骨间隙内，因此不容易触摸到。然而骨间背侧肌位于掌骨之间的背侧面，较容易触摸到。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_245c716866201f1a533bad1c04047f40.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_245c716866201f1a533bad1c04047f40.jpg" />
 
 **小鱼际肌**
 
@@ -1920,7 +1920,7 @@
 
 桡侧副韧带呈束带状起自肱骨外上髁止于桡骨环状韧带和尺骨外侧面。该韧带位于旋后肌和前臂伸肌的深面。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_23f0fe49914827bff34db0b2ee12acb2.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_23f0fe49914827bff34db0b2ee12acb2.jpg" />
 
 > [!note]
 > **桡侧副韧带**
@@ -1934,7 +1934,7 @@
 
 环状韧带包绕着桡骨头和桡骨颈，它在前臂旋前和旋后时将桡骨近端固定在尺骨上。它在旋后肌和前臂伸肌的深面。虽然环状韧带不能被单独触及，但是它的位置还是可以辨别出来。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_b42ddf40baa51b1d52a9b867ed44cbc3.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_b42ddf40baa51b1d52a9b867ed44cbc3.jpg" />
 
 > [!note]
 > **环状韧带**
@@ -1946,7 +1946,7 @@
 
 尺侧副韧带是三角形的强壮韧带。它起自肱骨内上髁，纤维发散终止于尺骨冠突和尺骨鹰嘴上。该韧带在屈肌总腱和尺神经的深面。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_312b666390f2f7b18e3bd7d3c1b18faf.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_312b666390f2f7b18e3bd7d3c1b18faf.jpg" />
 
 > [!note]
 > **尺侧副韧带**
@@ -1959,7 +1959,7 @@
 
 尺神经从肱骨内上髁和鹰嘴之间的间隙内穿过走向前臂远端。在这两个体表标志之间，尺神经非常表浅，可以触摸到。因此，如果你的肘关节受到撞击，可能会刺激到尺神经而产生令人不快的前臂过电感。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_9cca45367f3a692601205bc4c7f2da39.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_9cca45367f3a692601205bc4c7f2da39.jpg" />
 
 > [!note]
 > **尺神经**
@@ -1996,7 +1996,7 @@
 
 伸肌支持带比较表浅，位于腕背侧，与屈肌支持带相似，它是增厚的筋膜，其横行的纤维附着在其深面的腕骨背侧。它将腕关节和拇指的伸肌固定，近2 cm宽，位于尺骨头和桡骨茎突远端。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_593b5397302cf11f9289c7c00cfd9dd6.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_593b5397302cf11f9289c7c00cfd9dd6.jpg" />
 
 > [!note]
 > **屈肌支持带和掌腱膜**
@@ -2021,7 +2021,7 @@
 
 尺动脉在豌豆骨的近端，掌长肌腱的内侧，与桡动脉相比，它的搏动不容易被触摸到。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_a02a39a9351556220c8522ffef19f65c.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_a02a39a9351556220c8522ffef19f65c.jpg" />
 
 > [!note]
 > **桡动脉和尺动脉**
@@ -2042,7 +2042,7 @@
 
 ## 筋膜
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_84e3fe67d5394ec5930cacb2df849002.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_84e3fe67d5394ec5930cacb2df849002.jpg" />
 
 > [!note]
 > **脊柱**
@@ -2086,7 +2086,7 @@
 
 颈椎棘突与胸椎棘突相比更为短小。由于颈椎前凸和覆盖的项韧带，颈椎棘突实际上比胸、腰椎棘突的位置更深。寰椎是唯一一个没有棘突的椎骨。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_18e5e991875cd52f6d36a01407299ce7.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_18e5e991875cd52f6d36a01407299ce7.jpg" />
 
 > [!note]
 > **椎体棘突**
@@ -2103,7 +2103,7 @@
 
 有些棘突可在交叉骨性标志的帮助下来定位。例如，两髂嵴最高点的连线通过第4腰椎棘突，它可帮助你找到相邻的棘突。但是因为每个人身体各异，所以这种标志也不是唯一确定的，它们只能作为一个提示。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_1d0e0cf869bf94cc464a4fc3c2052f67.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_1d0e0cf869bf94cc464a4fc3c2052f67.jpg" />
 
 > [!note]
 > **第4腰椎和髂嵴最高点**
@@ -2118,7 +2118,7 @@
 
 第11、12肋因不与肋弓相连而称为“浮肋”。第12肋有一个向下细长的、枪刺样形状的尖角。它的长度为8~15 cm，可作为第12胸椎棘突的定位标志。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_89bf9d7e33e185153dd95bc8e1623203.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_89bf9d7e33e185153dd95bc8e1623203.jpg" />
 
 > [!note]
 > **第12胸椎和第12肋**
@@ -2133,7 +2133,7 @@
 
 体型、肌肉收缩和其他因素都会影响肩胛骨的位置。肩胛骨下角通常位于第7胸椎棘突水平，而上角位于第2胸椎水平。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_69e8f1da30be8acc4169fd05688c63ff.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_69e8f1da30be8acc4169fd05688c63ff.jpg" />
 
 > [!note]
 > **第7胸椎和肩胛骨下角，第2胸椎和肩胛骨上角**
@@ -2147,7 +2147,7 @@
 
 第7颈椎棘突位于颈根部。它比第6、第5和第4颈椎更为突出，当定位上背部和颈部的结构时可以此为区分。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_9e1b587ed2c71ee9addd7c2d20248001.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_9e1b587ed2c71ee9addd7c2d20248001.jpg" />
 
 > [!note]
 > **第7颈椎和颈根部**
@@ -2162,7 +2162,7 @@
 
 第3~6颈椎棘突向后突出的程度差不多。而第2颈椎棘突较大，突出更明显。颈椎棘突的尖端都位于项韧带的深部，项韧带是一扁平的连于棘突的韧带，向上延伸到枕骨。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_7da478d6cf9eb704192f852abf64811d.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_7da478d6cf9eb704192f852abf64811d.jpg" />
 
 > [!note]
 > **颈椎棘突**
@@ -2186,7 +2186,7 @@
 
 所有的横突均作为多个肌（斜角肌和肩胛提肌等）的附着点。臂丛是支配上肢的神经丛，它们从横突之间穿出。第1次触摸横突时，使用你的拇指指腹。随着触诊技术提高，对横突的探查将更为明确。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_f17fd356dc797105694ed043a5629dd0.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_f17fd356dc797105694ed043a5629dd0.jpg" />
 
 > [!note]
 > **颈椎横突**
@@ -2210,7 +2210,7 @@
 
 椎板沟是椎体棘突和横突之间的槽型的结构。虽然大小相当，但椎板沟充满肌层使得它很难触摸到。它对于定位肌腹特别有帮助。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e69abf75e2d595e2b5af78381dc5dd5d.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e69abf75e2d595e2b5af78381dc5dd5d.jpg" />
 
 > [!note]
 > **颈椎椎板沟**
@@ -2222,7 +2222,7 @@
 
 胸椎横突不像腰椎横突向侧面伸出那么长，它较短小。它们位于竖脊肌的深部，肋骨连结面的表面。腰椎横突也位于竖脊肌的深部，向侧面伸展 2~5 cm，能在覆盖的肌组织层下触摸到它们的存在。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_0fae87afac17e7d4a18fa0daf313b76d.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_0fae87afac17e7d4a18fa0daf313b76d.jpg" />
 
 > [!note]
 > **胸椎横突**
@@ -2243,7 +2243,7 @@
 
 胸椎和腰椎的椎板沟位于各自的棘突和横突之间。形状很像一个长长的、垂直的水槽，椎板沟的深度和宽度随着脊柱下行逐渐扩展。在胸椎和腰椎，椎板沟内充满竖脊肌和横突肌群。由于这些覆盖的肌组织，椎板沟很难直接触摸到，但其边界（棘突和横突）比较容易触及。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_82ab336a4f25cf39c045324ca062c3d1.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_82ab336a4f25cf39c045324ca062c3d1.jpg" />
 
 > [!note]
 > **胸椎和腰椎的椎板沟**
@@ -2262,7 +2262,7 @@
 
 从胸骨底端延伸出来的剑突长2.5 cm，或完全缺如。它是腹直肌鞘的附着点。胸骨柄、胸骨体和剑突位置表浅，表面仅覆盖筋膜和胸大肌肌腱。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_6df9bc059e28b604dffe3f79f21764af.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_6df9bc059e28b604dffe3f79f21764af.jpg" />
 
 > [!note]
 > **颈静脉切迹、胸骨柄和胸骨**
@@ -2287,7 +2287,7 @@
 
 探查胸部时避开乳腺组织。这时问一下受检者，是否可以触摸其周边的区域。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_b7c0d329d3da1234d7c71141e345007e.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_b7c0d329d3da1234d7c71141e345007e.jpg" />
 
 > [!note]
 > **肋骨和肋软骨**
@@ -2303,7 +2303,7 @@
 
 斜角肌位于整个颈后三角区，并与第1、2肋相连。所以为触到第1肋，你必须通过触摸斜角肌。臂丛和锁骨下动脉从第1肋和锁骨之间通过。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_7a8ce6289b44c241d08267ca7d9abdbf.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_7a8ce6289b44c241d08267ca7d9abdbf.jpg" />
 
 > [!note]
 > **第1肋**
@@ -2322,7 +2322,7 @@
 
 第11肋长15~20 cm，只绕过躯干的一半。第12肋长7~15 cm。肋在长度和数目上存在异常是很普遍的，所以受检者的肋可能就不符合以上的描述。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_c42f5989b93140808fba110b7f7996b4.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_c42f5989b93140808fba110b7f7996b4.jpg" />
 
 > [!note]
 > **第11肋和第12肋**
@@ -2337,11 +2337,11 @@
 
 **脊柱**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_3b426d332a3b7371bd85a53b85ae9993.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_3b426d332a3b7371bd85a53b85ae9993.jpg" />
 
 **肋和胸部**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_25f01d11d87691a2fac62b395cb82208.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_25f01d11d87691a2fac62b395cb82208.jpg" />
 
 ## 肌
 
@@ -2364,7 +2364,7 @@
 
 在腰部，竖脊肌位于薄而致密的胸腰筋膜的深面。在胸部和颈部，它们位于斜方肌、菱形肌和上、下后锯肌的深面。作为一组肌，沿着背部和颈部的整个长度走行，很容易触及并定位其特异的分支，但有时也会有变化。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e79ddc71610f793072d191dcc0116049.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e79ddc71610f793072d191dcc0116049.jpg" />
 
 > [!note]
 > **竖脊肌群**
@@ -2395,7 +2395,7 @@
 
 将横突棘肌的每一块肌区分开来非常困难，因为它们是相互编织在一起的。但是，因为它们是肌群，顺着胸椎和颈椎的椎板沟，感受肌的质量和密度是比较容易的。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_bf1d849f8e2c7b09fa2f900887614875.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_bf1d849f8e2c7b09fa2f900887614875.jpg" />
 
 > [!note]
 > **横突棘肌群**
@@ -2419,7 +2419,7 @@
 
 颈夹肌位于头夹肌深面，二者难以区分。但是，它的位置可概述为位于上部胸椎和颈椎的椎板沟内。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_363a56571ff1048029e2a740da8e3233.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_363a56571ff1048029e2a740da8e3233.jpg" />
 
 > [!note]
 > **头夹肌**
@@ -2450,7 +2450,7 @@
 
 斜方肌上部的纤维也可以用来做定位标志，因为此肌的宽度与枕骨下肌群的宽度是一样的。可以感知到枕骨下肌群的质感，但想区分开特定的肌非常有挑战性。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_7740dc697efdf9cb140a91f548e60ed1.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_7740dc697efdf9cb140a91f548e60ed1.jpg" />
 
 > [!note]
 > **枕骨下肌群**
@@ -2476,7 +2476,7 @@
 
 虽然腰方肌的内侧部分被胸腰筋膜和厚实的竖脊肌覆盖，但在躯干一侧可以触及它的外侧缘。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_7100b5a6bfe7b6bc1bc5aa6ff0f09519.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_7100b5a6bfe7b6bc1bc5aa6ff0f09519.jpg" />
 
 > [!note]
 > **腰方肌**
@@ -2512,7 +2512,7 @@
 
 薄的腹内斜肌在深部，其肌纤维与腹外斜肌的肌纤维方向垂直，不容易辨别。腹横肌是这组肌群里面位置最深的，在被动呼气时起重要作用，不容易触及。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_fc635e94e8beaa7c6d0d1cee4e914da1.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_fc635e94e8beaa7c6d0d1cee4e914da1.jpg" />
 
 > [!note]
 > **腹直肌**
@@ -2547,7 +2547,7 @@
 
 虽然膈肌只有一小部分可以被触及，但可以很明显地感觉到该肌对胸廓和呼吸产生的作用。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_116d0e4d31305ead96afda6eaf161b55.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_116d0e4d31305ead96afda6eaf161b55.jpg" />
 
 > [!note]
 > **膈肌**
@@ -2568,7 +2568,7 @@
 
 由于肋以及肋间隙是比较敏感的区域，触摸时手指移动要慢且有力。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_67bda83bff74db35c32ace22603107fb.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_67bda83bff74db35c32ace22603107fb.jpg" />
 
 > [!note]
 > **肋间肌**
@@ -2585,7 +2585,7 @@
 
 这两块肌都比较表浅，容易被触及。但由于它们的肌腹纤细，不容易分辨。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_ec4f4a4e8faa9a7d48fa4025fd3ae47a.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_ec4f4a4e8faa9a7d48fa4025fd3ae47a.jpg" />
 
 > [!note]
 > **下后锯肌**
@@ -2614,7 +2614,7 @@
 
 从触诊的角度来说，项韧带的后缘很表浅，但它与周围组织很难辨别开来。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_d9f820ccf876e0757fc227fdedb3aec9.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_d9f820ccf876e0757fc227fdedb3aec9.jpg" />
 
 > [!note]
 > **项韧带**
@@ -2631,7 +2631,7 @@
 
 细长的棘上韧带是项韧带的向下延伸。当它向下延伸时，棘上韧带附着在胸椎和腰椎的棘突上。棘上韧带比较表浅，在棘突之间的空隙很容易摸到。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_b3c3cbf2d8a9b3a3b997a3cb7e55a0ac.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_b3c3cbf2d8a9b3a3b997a3cb7e55a0ac.jpg" />
 
 > [!note]
 > **棘上韧带**
@@ -2645,7 +2645,7 @@
 
 腹主动脉直径约2.5 cm，是向腹部及下肢供血的最主要动脉。它位于脊柱的前面，小肠的深面。腹主动脉外侧是腰大肌。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_cd33394e41dcd67d8af316805ffefd77.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_cd33394e41dcd67d8af316805ffefd77.jpg" />
 
 > [!note]
 > **腹主动脉**
@@ -2659,7 +2659,7 @@
 
 这个筋膜是背部和臀部数块肌的聚集点，包括背阔肌和竖脊肌。它的质地扁平致密，很难与深部的肌分离。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_65756b02a2e33e1c640501c04b240b64.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_65756b02a2e33e1c640501c04b240b64.jpg" />
 
 > [!note]
 > **胸腰筋膜**
@@ -2680,7 +2680,7 @@
 
 ## 筋膜
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_260d0f78cc81e557070738eb33603dfe.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_260d0f78cc81e557070738eb33603dfe.jpg" />
 
 > [!note]
 > **头皮**
@@ -2714,7 +2714,7 @@
 
 上项线是自枕外隆凸向外侧延伸的凹凸不平的嵴样结构，可横向延伸至乳突。上项线是斜方肌和头夹肌的附着点。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e8a5e629d96b7ff9866e2466b90bcc2c.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e8a5e629d96b7ff9866e2466b90bcc2c.jpg" />
 
 > [!note]
 > **枕骨的一般位置**
@@ -2744,7 +2744,7 @@
 
 顶骨位于颅顶中部，呈四边形，构成颅腔的顶部及侧壁。在额骨、枕骨和颞骨之间，顶骨呈浅碟状其前部延伸到外耳道水平。两块顶骨在中线形成矢状缝，经常可以感觉到轻微的波动。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_a4d2c6bc9045c90946b1ba1f914310fa.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_a4d2c6bc9045c90946b1ba1f914310fa.jpg" />
 
 > [!note]
 > **顶骨**
@@ -2767,7 +2767,7 @@
 
 茎突位于耳垂后方，乳突和下颌骨后缘之间。其大体的形状为一些韧带和肌腱提供了附着位点。骨突表面覆盖着肌肉和其他组织，并不能直接触及，但可以触及它的位置。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_66b97be7e0dc0f4e37f6366e61eeacb3.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_66b97be7e0dc0f4e37f6366e61eeacb3.jpg" />
 
 > [!note]
 > **颞骨**
@@ -2819,7 +2819,7 @@
 
 冠突位于髁突前2.5 cm，是颞肌的附着点。当下颌闭合时，冠突位于颧弓下方是无法触及的。然而，充分张口时，将冠突从拱形窝中推出且可以触及。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_5f5bcd75163846da2d5402734129212f.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_5f5bcd75163846da2d5402734129212f.jpg" />
 
 > [!note]
 > **下颌体、下颌底和下颌下腺窝**
@@ -2859,7 +2859,7 @@
 
 马蹄形舌骨位于甲状软骨上方。直径大约2.5 cm，并平对下颌骨底（下巴）和第3或第4颈椎。舌骨是舌骨肌和舌骨下肌群的附着点，辅助吞咽，较易触及。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_965a53f982965ec59485509080ea5538.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_965a53f982965ec59485509080ea5538.jpg" />
 
 > [!note]
 > **气管和软骨**
@@ -2883,11 +2883,11 @@
 
 **颈椎**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_fb2d9c56caa31841d9564e15044b0350.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_fb2d9c56caa31841d9564e15044b0350.jpg" />
 
 **下颌骨（颞下颌关节）**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_0b1557b42b70ecd63287b67501707368.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_0b1557b42b70ecd63287b67501707368.jpg" />
 
 ## 肌
 
@@ -2905,7 +2905,7 @@
 
 颈动脉通过胸锁乳突肌的内侧深面；颈外静脉在它的浅面。胸锁乳突肌位置表浅，当头转向一侧时可以清晰地看见和扪及。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e82fd1fb748a0189bc20b032f04084fb.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e82fd1fb748a0189bc20b032f04084fb.jpg" />
 
 > [!note]
 > **胸锁乳突肌**
@@ -2936,7 +2936,7 @@
 
 臂丛神经的大分支及锁骨下动脉穿过前、中斜角肌之间的间隙。臂丛的个别分支可能穿过或在前斜角肌前面。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_8abc24fab1231ee3ae7ab98d1f62f5ec.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_8abc24fab1231ee3ae7ab98d1f62f5ec.jpg" />
 
 > [!note]
 > **斜角肌肌群**
@@ -2979,7 +2979,7 @@
 
 长方形的咬肌位于下颌骨旁边，由两个重叠的肌腹组成。其上面的肌腹表浅，可以从面部扪及，深面的肌腹需在口腔内才能扪及。咬肌虽位于腮腺深面，但很容易扪及。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_880e11c5ea869d324540ad2dfe5f6d34.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_880e11c5ea869d324540ad2dfe5f6d34.jpg" />
 
 > [!note]
 > **咬肌**
@@ -3001,7 +3001,7 @@
 
 颞肌位于颞骨表面，广泛的附着于额骨、颞骨和顶骨。其肌纤维厚实并一直延伸到颧弓下的冠突。尽管颞肌位于颞筋膜和颞动脉的深面，但颞肌相对表浅而易于扪及。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_75c0c96cfd2f9615e9709e59614db763.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_75c0c96cfd2f9615e9709e59614db763.jpg" />
 
 > [!note]
 > **颞肌**
@@ -3029,7 +3029,7 @@
 
 二腹肌长而圆，由前腹和后腹组成。后腹自乳突至舌骨（穿过茎突舌骨肌），然后走行到舌骨前面的肌腱吊带；前腹附着于下颌骨的下面。这两个肌腹都较表浅，但与深面的舌骨上肌群较难区分。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_bc66d2788df591a354a3230d65770d22.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_bc66d2788df591a354a3230d65770d22.jpg" />
 
 > [!note]
 > **舌骨上肌群**
@@ -3062,7 +3062,7 @@
 
 肩胛舌骨肌或许是体内最离奇的肌肉。它有一个细长的肌腹，起自舌骨穿过胸锁乳突肌和斜角肌的下方最后附着于肩胛骨。除了下降舌骨，肩胛舌骨肌还具有收紧颈部筋膜和扩大颈内静脉的作用。由于其所在深度和细长的肌腹，肩胛舌骨肌基本上不能扪及。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_b92c690cfa42e079c2dc5d605a90a225.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_b92c690cfa42e079c2dc5d605a90a225.jpg" />
 
 > [!note]
 > **胸骨舌骨肌和胸骨甲状肌**
@@ -3082,7 +3082,7 @@
 
 颈阔肌是一块长扁薄的皮肌，自下颌跨过颈部前部到达胸部。颈阔肌和其他面部肌都是皮肌。这些肌均起自浅筋膜并附着于皮肤和覆盖在上面的肌肉，而不是附着于骨上。颈阔肌能使颈部皮肤出现皱纹。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_2dc622a59f327b97c4cf5c143802add7.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_2dc622a59f327b97c4cf5c143802add7.jpg" />
 
 > [!note]
 > **颈阔肌**
@@ -3100,7 +3100,7 @@
 
 枕额肌主要负责扬眉提额，表达一种惊奇的表情。它是一块具有4个薄扁肌腹的独特肌——两个额腹在额部，两个枕腹在枕后。4个肌腹与坚韧宽广的帽状腱膜连接，帽状腱膜覆盖整个颅骨顶。尽管枕额肌较表浅，但其纤维不能被分离。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_f91a25eef61c749d8878af1ecbdae508.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_f91a25eef61c749d8878af1ecbdae508.jpg" />
 
 > [!note]
 > **额肌纤维**
@@ -3179,7 +3179,7 @@
 
 定位到颧大肌内侧，颧小肌能上提和凸起上唇。这些作用能加深鼻唇沟，并能使脸颊鼓起。根据周围的情况，面部表情能产生从笑到做鬼脸一系列的表情。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_459b9abaa074475ae3200401178f4b82.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_459b9abaa074475ae3200401178f4b82.jpg" />
 
 ## 鼻部肌
 
@@ -3197,7 +3197,7 @@
 
 位于前额的小的三角肌，通常比鼻子更能调节眉毛的运动。沿着提上唇鼻翼肌，它能皱起鼻部的皮肤（例如打喷嚏），或者拉眉（在鼻梁上产生水平皱褶）。它通常与皱眉肌协同作用产生困惑的表情。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_7f5aa6194c88eb3e904c4eafd6c93337.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_7f5aa6194c88eb3e904c4eafd6c93337.jpg" />
 
 ## 眼部肌
 
@@ -3213,7 +3213,7 @@
 
 环绕于眼周围的轮匝肌对于眼睑的闭合有重要作用。外部较厚的纤维形成眼眶部的肌肉，能够闭合眼睑，或维持斜眼，部分关闭的状态（产生不信任的表情）。眼睑部的内部肌纤维在闪光或睡觉时会不自觉地关闭眼睑。“眼中带笑”能使你眼侧边肌肉收缩，但时间长了肌肉收缩会形成放射性的皱纹称之为“眼纹”。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_fbbdb7b53d631045a1f8dd6b37904ff5.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_fbbdb7b53d631045a1f8dd6b37904ff5.jpg" />
 
 ## 头皮部肌
 
@@ -3233,7 +3233,7 @@
 
 前后肌强有力地交替收缩能产生耳郭的摆动。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_92fd23662f4bc03df4c3fffb82bb6cfa.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_92fd23662f4bc03df4c3fffb82bb6cfa.jpg" />
 
 ## 其他结构
 
@@ -3243,7 +3243,7 @@
 
 颈动脉是头颈部的主要供血动脉，它从颈的前侧部上升，并且位于胸锁乳突肌和舌骨下肌的深部。可在胸锁乳突肌的内侧，舌骨的水平位处触摸到其脉搏。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e225da948703681d77326bde038f0593.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e225da948703681d77326bde038f0593.jpg" />
 
 > [!note]
 > **颈总动脉**
@@ -3257,7 +3257,7 @@
 
 颞浅动脉是从颈外动脉发出分支，并且跨过颧弓上部。它在颅骨侧方向上走行，位于颞肌的表层。沿着颧弓在耳郭的前方可观察到颞浅动脉的搏动。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e97547e2429c0e61e160f7414a1ec9ab.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e97547e2429c0e61e160f7414a1ec9ab.jpg" />
 
 > [!note]
 > **颞浅动脉**
@@ -3269,7 +3269,7 @@
 
 面动脉是一小的表浅动脉，从颈外动脉发出分支，位于下颌骨的基部周围，向口和鼻方向走行。很难触摸其搏动，但是在下颌骨基部的咬肌前缘可感受其搏动。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_f02720252a57da20967011027c5b4b9b.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_f02720252a57da20967011027c5b4b9b.jpg" />
 
 > [!note]
 > **面动脉**
@@ -3299,7 +3299,7 @@
 
 正如它的名字，下颌下腺位于下颌底下面，其形状能够在下颌角前方扪及。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_c77b16f1e93658961c879073ed128cd7.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_c77b16f1e93658961c879073ed128cd7.jpg" />
 
 > [!note]
 > **腮腺**
@@ -3326,7 +3326,7 @@
 
 甲状腺的左、右叶位于气管的前表面。腺体位于舌骨下肌的深层，其结构如海绵样柔软，因而很难与周围的组织区分。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_0562aae78543bce332451c70da184c87.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_0562aae78543bce332451c70da184c87.jpg" />
 
 > [!note]
 > **甲状腺**
@@ -3368,7 +3368,7 @@
 
 ## 筋膜
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_52c4d5ce2fab5b723254b6a2d4947eb8.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_52c4d5ce2fab5b723254b6a2d4947eb8.jpg" />
 
 > [!note]
 > **大腿**
@@ -3402,7 +3402,7 @@
 
 顾名思义，髂前上棘位于髂骨的前上缘。两侧髂前上棘浅表，是缝匠肌和腹股沟韧带的附着点。在19世纪90年代中期之前，当设计、穿着紧身裤时，通常要与骨盆区域相适应，髂前上棘位于前方裤袋的下方。现在，随着年轻男女腰带的设计，很少暴露臀裂中上部，以往的设计已不再适用了。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_09b8194600bc3852f1dc36195fdc26d3.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_09b8194600bc3852f1dc36195fdc26d3.jpg" />
 
 > [!note]
 > **髂前上棘**
@@ -3416,7 +3416,7 @@
 
 髂嵴很长，是髂骨的上缘。起于髂前上棘延伸至髂后上棘。除了有助于穿裤子外，髂嵴是腰方肌和腹部肌的附着点。由于附着在髂骨上的肌并未越过它，故髂骨都很表浅，易于触诊。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_3a39e31783a9064c455c7e4247373ea7.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_3a39e31783a9064c455c7e4247373ea7.jpg" />
 
 > [!note]
 > **髂嵴**
@@ -3430,7 +3430,7 @@
 
 髂后上棘位于髂嵴的后端。在大多数人中，两侧髂后上棘都易于找到（位于腰部的两个浅凹）。不借助镜子，你可能很难看到自己的髂后上棘，但却可以触摸到。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_aa6a029c953d76e31d18222c2bddd378.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_aa6a029c953d76e31d18222c2bddd378.jpg" />
 
 > [!note]
 > **翳后上棘**
@@ -3444,7 +3444,7 @@
 
 耻骨嵴位于脐以下和生殖器以上。由耻骨上缘和内侧缘组成。耻骨嵴约5 cm宽，清晰明显。它是腹直肌和腹直肌鞘的附着点。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_74453bef1b015ee0ca3872bd3241601f.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_74453bef1b015ee0ca3872bd3241601f.jpg" />
 
 > [!note]
 > **耻骨嵴**
@@ -3460,7 +3460,7 @@
 
 如果你曾经坐在一个金属折叠椅上长时间观看音乐会或体育赛事，那么坐骨结节对你来说并不陌生。坐骨位于骨盆最下面，在臀沟水平处（臀部和大腿之间横向折痕）。坐骨结节是大腿后群肌、大收肌和骶结节韧带的附着点。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_5ef47988074df503a4153ed528319b70.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_5ef47988074df503a4153ed528319b70.jpg" />
 
 > [!note]
 > **坐骨结节**
@@ -3474,7 +3474,7 @@
 
 大转子很大，表面隆起，位于髂嵴远端，髋关节外侧面，易于触摸，是臀中肌、臀小肌和髋关节旋外肌的附着点。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_789b9b647cacb852b41fc3319617f8fe.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_789b9b647cacb852b41fc3319617f8fe.jpg" />
 
 > [!note]
 > **大转子**
@@ -3486,7 +3486,7 @@
 
 **髂前上棘**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_dea2a145641457b1afbeb50b4edb6135.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_dea2a145641457b1afbeb50b4edb6135.jpg" />
 
 > [!note]
 > **髂前上棘**
@@ -3500,7 +3500,7 @@
 
 髂前下棘位于髂前上棘的内下方，是股直肌的附着点，比髂前上棘更小更平，在缝匠肌和腹股沟韧带的深层。因为其外形小且位于缝匠肌深层，故很难触诊出来。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_06fc116f2bb0b6c52570aeeb12cf34f4.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_06fc116f2bb0b6c52570aeeb12cf34f4.jpg" />
 
 > [!note]
 > **髂前下棘**
@@ -3513,7 +3513,7 @@
 
 **髂嵴**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_c8ace50f07c28b1a4ee4f191aa4d08e2.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_c8ace50f07c28b1a4ee4f191aa4d08e2.jpg" />
 
 > [!note]
 > **髂嵴**
@@ -3528,7 +3528,7 @@
 
 形如碗状的髂窝位于髂骨内面，它是髂肌的附着点。由于腹部内容物和髂肌的存在，使得大多数髂窝难以触诊，不过仍可以将手指慢慢沉入髂嵴进入髂窝触诊它。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_b7a511905f289e62c687ac12546ff5e9.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_b7a511905f289e62c687ac12546ff5e9.jpg" />
 
 > [!note]
 > **髂窝**
@@ -3539,7 +3539,7 @@
 
 **髂后上棘**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e9d83ac133f187fb2fc8acff14508916.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e9d83ac133f187fb2fc8acff14508916.jpg" />
 
 > [!note]
 > **髂后上棘**
@@ -3559,7 +3559,7 @@
 
 骶骨中部有3~4个突起，称为骶正中嵴。在骶正中嵴的一侧是骶外侧嵴（是一系列小骨突起）。骶骨缘是臀大肌和骶结节韧带的附着点。尽管骶骨表面凹凸不平，且在胸腰筋膜和骶髂韧带的深层，但它易于触诊。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_aaa36e5c38d34b7e59b6397c572081e4.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_aaa36e5c38d34b7e59b6397c572081e4.jpg" />
 
 > [!note]
 > **骶骨**
@@ -3576,7 +3576,7 @@
 
 因为尾骨靠近臀裂，故触诊可能给双方带来不便，所以在触诊之前先触诊自己的尾骨。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_8dcf737474bcef5db9019cb59c28c500.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_8dcf737474bcef5db9019cb59c28c500.jpg" />
 
 > [!note]
 > **尾骨**
@@ -3590,7 +3590,7 @@
 
 骶髂关节是骶骨和髂骨的连结点。它位于髂后上棘的内侧，胸腰筋膜和骶髂后韧带深层。骶髂关节悬在髂骨内侧，故只可触到关节边缘。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_6d3fc9c8c33d9f26de530c8a09d3303f.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_6d3fc9c8c33d9f26de530c8a09d3303f.jpg" />
 
 > [!note]
 > **骶髂关节**
@@ -3602,7 +3602,7 @@
 
 **大转子**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_cceea91d7c11cf3e6339360a79ddf8ed.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_cceea91d7c11cf3e6339360a79ddf8ed.jpg" />
 
 > [!note]
 > **大转子**
@@ -3617,7 +3617,7 @@
 
 臀肌粗隆位于大转子远端后方，为臀大肌下端肌纤维的附着点。虽然它被臀大肌和股外侧肌上部肌束包裹，但其位置仍较表浅，易于触诊。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_72a05a7e6e2556dc5f4b19f4c3f7fc2a.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_72a05a7e6e2556dc5f4b19f4c3f7fc2a.jpg" />
 
 > [!note]
 > **臀肌粗隆**
@@ -3635,7 +3635,7 @@
 
 耻骨结节在耻骨嵴上方，两侧耻骨结节形状像个小喇叭，是长收肌和腹股沟韧带的附着点。两侧耻骨结节相距约3cm，有时不易触诊。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_ea04377eca66122dcb4903164de393f3.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_ea04377eca66122dcb4903164de393f3.jpg" />
 
 > [!note]
 > **耻骨嵴和耻骨结节**
@@ -3652,7 +3652,7 @@
 
 耻骨上支是耻骨结节向上 45°延伸至髂前下棘的骨块。它形成了一个支架作为耻骨肌的附着点。因其在腹股沟韧带和血管神经束的深层，故很难触诊。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_8ea1efca4d8d065640028b1687339e61.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_8ea1efca4d8d065640028b1687339e61.jpg" />
 
 > [!note]
 > **耻骨上支**
@@ -3666,7 +3666,7 @@
 
 耻骨下支和坐骨支都位于骨盆下方，共同构成了耻骨嵴和坐骨结节间的桥梁。耻骨下支为桥梁的前半部分，是股薄肌和内收肌群的附着点，两支都是大收肌的附着点。触诊时将双手分别放在这两支上，指尖朝向大腿内侧，双手所形成的角度，女性比男性要大。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_f5530e8935b9894e7880e6802d5c570a.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_f5530e8935b9894e7880e6802d5c570a.jpg" />
 
 > [!note]
 > **耻骨下支和坐骨支**
@@ -3679,7 +3679,7 @@
 
 **坐骨结节**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_d2152dac06552d3eca854c02144e3959.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_d2152dac06552d3eca854c02144e3959.jpg" />
 
 > [!note]
 > **坐骨结节**
@@ -3695,11 +3695,11 @@
 
 **髋关节**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_d08eb33056816b3b65919072429d483b.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_d08eb33056816b3b65919072429d483b.jpg" />
 
 **膝关节**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_65d57df6791f10f7a14b057456e55bcd.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_65d57df6791f10f7a14b057456e55bcd.jpg" />
 
 ## 肌
 
@@ -3723,7 +3723,7 @@
 
 股四头肌的4个头向下形成股四头肌肌腱，包绕髌骨的前面和两侧，然后通过髌韧带附于胫骨粗隆。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_c5e47e5eb995e6d718edfa7674fed6b2.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_c5e47e5eb995e6d718edfa7674fed6b2.jpg" />
 
 > [!note]
 > **股四头肌**
@@ -3771,7 +3771,7 @@
 
 股二头肌是外侧的腘绳肌。它有两个头，半浅层的长头和深层的不可触及的短头。内侧的腘绳肌有两块：浅层的半腱肌和深层宽大的半膜肌。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_1a190686869c91c5e68b8ad7738f46ba.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_1a190686869c91c5e68b8ad7738f46ba.jpg" />
 
 > [!note]
 > **腘绳肌**
@@ -3810,7 +3810,7 @@
 
 臀小肌位于臀中肌的深层，不能触及。但仍可感觉到其位于臀中肌深层丰厚的肌纤维。因其附着在大转子前面，臀小肌的功能与臀大肌相反，它使髋关节屈曲和内旋。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_734cecc7de0fdab85a19cc51f32cabf0.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_734cecc7de0fdab85a19cc51f32cabf0.jpg" />
 
 > [!note]
 > **臀大肌**
@@ -3853,7 +3853,7 @@
 
 有时，这个肌腱还可以作为一个重要的定位标志，不仅是寻找股薄肌和长收肌，还是寻找耻骨肌和大收肌的定位标志。耻骨肌位于肌腱的前侧，大收肌位于肌腱的后侧。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_a0b72f10257a3dbd6993c7560f7bd0d8.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_a0b72f10257a3dbd6993c7560f7bd0d8.jpg" />
 
 > [!note]
 > **内收肌群**
@@ -3902,7 +3902,7 @@
 
 髂胫束易于触诊，其远端扁带状部分位于股二头肌肌腱前缘，这是髂胫束最易触诊的部位。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_7b6e993e02b49645c76a98999debebeb.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_7b6e993e02b49645c76a98999debebeb.jpg" />
 
 > [!note]
 > **阔筋膜张肌**
@@ -3932,7 +3932,7 @@
 
 缝匠肌是全身最长的肌，起自髂前上棘，经大腿前面，止于膝关节内侧。缝匠肌位置表浅，肌束纤细，约为两指宽，故很难触诊。其近端位于股动脉外侧。由于缝匠肌能使大腿和小腿处于一个类似裁缝师工作时的姿势，故命名为缝匠肌。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_81e96da74a27dab4f8e4c80bcba4f147.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_81e96da74a27dab4f8e4c80bcba4f147.jpg" />
 
 > [!note]
 > **缝匠肌**
@@ -3950,7 +3950,7 @@
 
 半膜肌肌腱在哪里？其远端肌腱短，位于半腱肌和股薄肌深层。在半腱肌和股薄肌之间可以触诊到半膜肌远端。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_ece3d6a9c8bf43fc231c9b22030e516b.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_ece3d6a9c8bf43fc231c9b22030e516b.jpg" />
 
 > [!note]
 > **外侧肌腱**
@@ -3983,7 +3983,7 @@
 
 所有外旋肌都位于坐骨神经深面，梨状肌除外，其位于坐骨神经浅面。故当梨状肌过度收缩时可压迫坐骨神经。尽管如此，外旋肌群还是可触诊的。梨状肌和股方肌最易触及。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_520dbb9fa2ad29746a968f0d8ac3b840.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_520dbb9fa2ad29746a968f0d8ac3b840.jpg" />
 
 > [!note]
 > **梨状肌**
@@ -4023,7 +4023,7 @@
 
 腰小肌可协助骨盆后倾，这与腰大肌的功能相反。有趣的是，由于四足动物脊椎和骨盆的关系，腰小肌在猫或狗的运动中是一块很重要的肌。然而人类的腰小肌是一个相对无关紧要的肌，除非在跳伦巴舞时。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_c9015058daf6eb2ae5a0de8e79cfc3c1.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_c9015058daf6eb2ae5a0de8e79cfc3c1.jpg" />
 
 > [!note]
 > **腰大肌**
@@ -4062,7 +4062,7 @@
 
 腹股沟韧带是连于髂前上棘与耻骨结节间的浅层韧带，形成股三角的上缘和腹直肌鞘的下缘，它还是腹外斜肌下部肌束的附着点。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e9116de606879400fcc40b3cfa01ab60.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e9116de606879400fcc40b3cfa01ab60.jpg" />
 
 > [!note]
 > **腹股沟韧带**
@@ -4077,7 +4077,7 @@
 
 股动脉、股神经和股静脉形成血管神经束，通过股三角。其位于腹股沟韧带深面向大腿远侧延伸。这个神经血管束非常表浅，可轻易感受到股动脉搏动。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_cb4f326a5f1cc63e3c3bc99220cad2d6.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_cb4f326a5f1cc63e3c3bc99220cad2d6.jpg" />
 
 > [!note]
 > **股动脉搏动**
@@ -4091,7 +4091,7 @@
 
 腹股沟淋巴结位于腹股沟韧带远端，腹股沟浅淋巴结易于触及。数量为8~10个，小至小扁豆，大至葡萄大小。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_bbe6503bc28ab5d679c6241cf13944c4.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_bbe6503bc28ab5d679c6241cf13944c4.jpg" />
 
 > [!note]
 > **腹股沟淋巴结**
@@ -4103,7 +4103,7 @@
 
 骶结节韧带宽而坚实，起自骶骨边缘，集中附着于坐骨结节。其虽然位于臀大肌深面，但仍易于触诊，摸起来像一段骨块。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_a167cd6aca939d8c7acf19e262d108ce.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_a167cd6aca939d8c7acf19e262d108ce.jpg" />
 
 > [!note]
 > **骶结节韧带**
@@ -4117,7 +4117,7 @@
 
 骶髂后韧带位于骶髂关节浅面，致密的骶髂韧带使得骶骨和髂骨紧密结合。骶髂韧带部分起自骶骨，止于髂后上棘；部分韧带位于胸腰筋膜深面，其斜行肌纤维很难触及。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_427b37edea1a1d33e74028ff71312450.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_427b37edea1a1d33e74028ff71312450.jpg" />
 
 > [!note]
 > **骶髂后韧带**
@@ -4131,7 +4131,7 @@
 
 髂腰韧带起自第4和第5腰椎横突，止于髂嵴后部。其强壮的横向纤维束韧带是第4、5腰椎重要的稳定结构。髂腰韧带位于胸腰筋膜和肥厚的多裂肌以及腰方肌的后面，故很难触诊。然而其大致位置和质地可以感觉到。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_7366e3564ffddb0e8b7554c6e19fe7ec.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_7366e3564ffddb0e8b7554c6e19fe7ec.jpg" />
 
 > [!note]
 > **髂腰韧带**
@@ -4148,7 +4148,7 @@
 
 因为坐骨神经位于梨状肌下面，故很有可能被梨状肌压迫。一般来说，坐骨神经很难触诊，当然也最好避免触诊。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_65d1187f59a2305d542747c16701e612.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_65d1187f59a2305d542747c16701e612.jpg" />
 
 > [!note]
 > **坐骨神经**
@@ -4173,7 +4173,7 @@
 
 ## 筋膜
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_90739d5f5cd418087c5e17ab7d18ca14.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_90739d5f5cd418087c5e17ab7d18ca14.jpg" />
 
 > [!note]
 > **小腿**
@@ -4203,7 +4203,7 @@
 
 髌骨位于膝前区，位置表浅，呈圆形，髌骨尖朝向下方。髌骨是人体最大的籽骨，是股四头肌腱和髌韧带的附着点。当膝关节屈曲时，髌骨滑入胫骨近端和股骨髁之间的间隙，在表面看来似乎消失。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_91017b9ad7e536e6e74d0d870412dd5f.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_91017b9ad7e536e6e74d0d870412dd5f.jpg" />
 
 > [!note]
 > **髌骨**
@@ -4216,7 +4216,7 @@
 
 胫骨粗隆位于髌骨下方的胫骨体上端，是一表浅的骨性隆起，有的非常明显，直径约1.3cm，是髌韧带的附着点。胫骨体位于小腿前方，从胫骨粗隆直至内踝，其锐缘和平坦的表面均易触及。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_8c6090c47b812e77d208722178b8cdc3.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_8c6090c47b812e77d208722178b8cdc3.jpg" />
 
 > [!note]
 > **胫骨粗隆和股骨体**
@@ -4230,7 +4230,7 @@
 
 腓骨头位于小腿的外侧，有的突出明显，是股二头肌、部分比目鱼肌和腓侧副韧带的附着点。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_293e81427be6b14980d32fcab968d577.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_293e81427be6b14980d32fcab968d577.jpg" />
 
 > [!note]
 > **腓骨头**
@@ -4246,7 +4246,7 @@
 
 胫骨平台的内、外侧都在胫骨近端。胫骨平台上方的髁间隆起，因位于膝关节内而无法触及，但是位于髌韧带两侧的胫骨平台边缘则较易触及。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_46f740f2934e6d1680be68e999e5d6af.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_46f740f2934e6d1680be68e999e5d6af.jpg" />
 
 > [!note]
 > **胫骨平台**
@@ -4261,7 +4261,7 @@
 
 大腿的3条肌腱：缝匠肌、股薄肌和半腱肌，在膝内侧合为较大的鹅足腱，止于胫骨近端内侧。相较而言，鹅足腱附着点是胫骨粗隆内侧的平坦区域。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_ec032156e97f51018bb61a762cd20d40.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_ec032156e97f51018bb61a762cd20d40.jpg" />
 
 > [!note]
 > **鹅足腱附着点**
@@ -4275,7 +4275,7 @@
 
 两个大而圆的股骨髁基本上是无法触及的，而邻近髌骨两侧的股骨髁缘则较易触及。当膝关节屈、伸时，股骨髁缘对追踪髌骨的运动轨迹起着重要作用。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_6e23be235e4a1242d951d621b3e7bce0.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_6e23be235e4a1242d951d621b3e7bce0.jpg" />
 
 > [!note]
 > **股骨髁缘**
@@ -4292,7 +4292,7 @@
 
 股骨内上髁位于缝匠肌肌腱深面、股内侧肌下方，是胫侧副韧带的附着点。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_46614944c2dc4c36dc87263504bf98a7.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_46614944c2dc4c36dc87263504bf98a7.jpg" />
 
 > [!note]
 > **股骨上髁**
@@ -4307,7 +4307,7 @@
 
 收肌结节位于内上髁上方，在股内侧肌肌腹和腘绳肌肌腱之间。收肌结节通常易于触及，其较小的尖端从内上髁上方伸出，是大收肌肌腱的止点。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_9da4677c32b17b78550ef2b606384389.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_9da4677c32b17b78550ef2b606384389.jpg" />
 
 > [!note]
 > **收肌结节**
@@ -4330,7 +4330,7 @@
 
 外踝和内踝是踝部两侧的大而明显的骨性结节。较宽大的内踝位于胫骨远端，较细长的外踝则位于腓骨远端。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_c1f641f6c0b8d6443472649820a42d34.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_c1f641f6c0b8d6443472649820a42d34.jpg" />
 
 > [!note]
 > **内踝和外踝**
@@ -4343,7 +4343,7 @@
 
 内、外踝的后方均有一小垂直沟，即内、外踝沟。踝沟为包绕踝关节周围的肌腱提供了稳定的杠杆支点。但也是因为上述肌腱附着在踝沟内外，故踝沟较难以触及。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_73ba0091c37dbd2a287d066994c74100.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_73ba0091c37dbd2a287d066994c74100.jpg" />
 
 > [!note]
 > **踝沟**
@@ -4367,7 +4367,7 @@
 
 腓骨肌滑车位于足外侧，距外踝下方约2.5 cm。该滑车较小、位置表浅，自跟骨表面突出，作用是协助稳定腓骨肌。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_d95f13151da48b26c629e43466c5c3f3.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_d95f13151da48b26c629e43466c5c3f3.jpg" />
 
 > [!note]
 > **跟骨结节**
@@ -4401,7 +4401,7 @@
 
 距骨有3个易触诊的骨性标志。距骨头呈圆形，其前部与舟骨相关节，其内侧部邻近舟骨结节后方，较易触及。距骨滑车是距骨体上方的大突起，楔入胫、腓骨远端之间。距骨滑车的前部位于内、外踝之间。距骨内侧结节在内踝后方，为三角韧带的附着点。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_1c3827215547a40f0fa7ac6a45125976.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_1c3827215547a40f0fa7ac6a45125976.jpg" />
 
 > [!note]
 > **距骨头**
@@ -4428,7 +4428,7 @@
 
 𧿹趾由两块趾骨组成。𧿹趾的趾骨间关节是被支持韧带包绕的屈成关节。第1跖趾关节位于足掌跖球处，是一个大球形的椭圆关节。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_dd24bca12c3750c050c6e3ea92e7069b.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_dd24bca12c3750c050c6e3ea92e7069b.jpg" />
 
 > [!note]
 > **𧿹趾**
@@ -4442,7 +4442,7 @@
 
 相较于细长的第2~5跖骨，第1跖骨短而粗壮。第1跖骨背侧和内侧面位置表浅，易于触及；其跖面包裹在一些厚实肌肉的深面。第1跖骨的近端向后与内侧楔骨形成关节（第1跗跖关节），该关节常在足背形成隆嵴，穿较紧的鞋时尤为明显。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_6e5593a9eab4cbea7a04caccb94c2f11.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_6e5593a9eab4cbea7a04caccb94c2f11.jpg" />
 
 > [!note]
 > **第1跖骨**
@@ -4456,7 +4456,7 @@
 
 与踢趾不同，第2~5趾均由3块趾骨组成。每个足趾均包括2个关节：近侧趾骨间关节和远侧趾骨间关节。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_bcaa5420b7eda4dcdc534fb88a28873d.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_bcaa5420b7eda4dcdc534fb88a28873d.jpg" />
 
 > [!note]
 > **足趾**
@@ -4467,7 +4467,7 @@
 
 细长的2~5跖骨两端，均有膨大的跖骨底和跖骨头。跖骨底相互靠拢，均与跗骨相关节（第2~5跗跖关节）。跖骨间的空隙由小块足固有肌填充，在足背易于触及。第5跖骨粗隆是一个表浅的骨性隆突，从第5跖骨底向外延伸，为腓骨短肌的止点。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_a959e9c10415b83f164e90bfe01ca8cc.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_a959e9c10415b83f164e90bfe01ca8cc.jpg" />
 
 > [!note]
 > **跖骨**
@@ -4486,7 +4486,7 @@
 
 3 块楔骨在舟骨和跖骨之间排成一排。内侧楔骨是胫骨前肌和胫骨后肌的附着点，其背面和内侧面可触及。中间楔骨和外侧楔骨像三明治一样被夹在内侧楔骨和骰骨之间，只能触到背面。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_b10c0d92d253c939234cbeb00b6533d0.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_b10c0d92d253c939234cbeb00b6533d0.jpg" />
 
 > [!note]
 > **楔骨**
@@ -4503,7 +4503,7 @@
 
 呈扁豆状的足舟骨被内侧、中间楔骨和距骨夹在中间。足舟骨的背面和内侧面表浅，易于触及。表浅的舟骨结节在足内侧缘突出，是胫骨后肌及跟舟足底韧带的附着部位。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_dfd3a8ab58a16e210a3a58b9605adb33.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_dfd3a8ab58a16e210a3a58b9605adb33.jpg" />
 
 > [!note]
 > **足舟骨**
@@ -4518,7 +4518,7 @@
 
 顾名思义，骰骨是立方体形的，其4个侧面中的3个分别与第4~5跖骨、外侧楔骨及跟骨相邻。骰骨背面部分被趾短伸肌的肌腹所覆盖，鉴于其位置狭窄和被肌肉覆盖，骰骨仅小部分可被触及。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_014c5bb57cb80fd90657428a81631bff.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_014c5bb57cb80fd90657428a81631bff.jpg" />
 
 > [!note]
 > **骰骨**
@@ -4532,11 +4532,11 @@
 
 **踝关节（距小腿关节）**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_1598f17499f72fe1a9d43b9e0d6afcc8.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_1598f17499f72fe1a9d43b9e0d6afcc8.jpg" />
 
 **足和趾（距跗关节、跗骨间关节、跗跖关节、跖趾关节、近端趾骨间关节和远端趾骨间关节）**
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_3d94f72118753bcc7b24db8879dbb791.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_3d94f72118753bcc7b24db8879dbb791.jpg" />
 
 ## 肌
 
@@ -4557,7 +4557,7 @@
 
 比目鱼肌位于腓肠肌的深面，其内、外侧肌纤维自小腿边缘膨出，肌腹向下延伸的距离超过腓肠肌两头。比目鱼肌有时被称为“第二心脏”，因其强力收缩能帮助血液从小腿回流至心脏。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_5eda0ef215ca5791de24ee0d85e2e02d.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_5eda0ef215ca5791de24ee0d85e2e02d.jpg" />
 
 > [!note]
 > **腓肠肌和比目鱼肌——站立位 #1**
@@ -4588,7 +4588,7 @@
 
 从进化的角度而言，跖肌是足部强大的跖屈肌的退化肌肉。爬行动物的跖肌，仍然保留着这一古老而强大的跖屈肌特性，在爬行前进中起重要作用。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_765618972532a4444fdd8ce6803d42e4.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_765618972532a4444fdd8ce6803d42e4.jpg" />
 
 > [!note]
 > **跖肌**
@@ -4603,7 +4603,7 @@
 
 顾名思义，腘肌位于腘窝内，其肌腹短小，肌纤维斜行。腘肌位于腓肠肌和跖肌上部肌纤维的深面，为膝后区位置最深的肌，故难以触及。但是，止于胫骨后部的腘肌肌腱可触及。虽然腘肌仅是膝关节较弱的屈肌，但在伸直的膝关节开始屈曲时，腘肌对解锁膝关节有重要作用，也得名“解锁膝关节的钥匙”。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_5bdb2ec4c2bed2e83f9fe57a282effd1.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_5bdb2ec4c2bed2e83f9fe57a282effd1.jpg" />
 
 > [!note]
 > **腘肌**
@@ -4623,7 +4623,7 @@
 
 腓骨长肌和腓骨短肌均较细长，位于腓骨外侧。更准确的位置是其位于趾长伸肌和比目鱼肌之间。部分腓骨短肌被腓骨长肌所覆盖，但二者都易于触及。它们的肌腱在外踝后方，沿足外侧缘向远端走行，位置表浅易于触诊。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_943d2f472a5412d1bd25ee794ebf6402.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_943d2f472a5412d1bd25ee794ebf6402.jpg" />
 
 > [!note]
 > **腓骨长、短肌**
@@ -4652,7 +4652,7 @@
 
 趾长伸肌位于胫骨前肌和腓骨肌群之间，部分表浅，其4个肌腱在足背清晰可见。𧿹长伸肌的肌腹在胫骨前肌和趾长伸肌深面，只能间接触及，但与趾长伸肌类似，其连于𧿹趾的远端肌腱在足背也清晰可见。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_b839be643e9ca6ee67e0e1aabce39e31.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_b839be643e9ca6ee67e0e1aabce39e31.jpg" />
 
 > [!note]
 > **胫骨前肌**
@@ -4693,7 +4693,7 @@
 
 这3块细长的屈肌位于小腿后部，腓肠肌和比目鱼肌的深面，主要功能是足内翻和屈趾。这3块深层肌仅有一小部分可在小腿内侧触及，具体位置是胫骨体与跟腱内侧缘之间，在此区域可直接触诊这些屈肌的下部肌束和肌腱。3块屈肌的肌腱绕过内踝并从屈肌支持带深面穿过。胫后动脉和胫神经在踝部内侧的肌腱之间走行。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e4e22af122516d40ec982cca8957906c.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e4e22af122516d40ec982cca8957906c.jpg" />
 
 > [!note]
 > **所有屈肌**
@@ -4723,7 +4723,7 @@
 
 与足背的细小肌肉不同，足底肌分为多层。第1层位于足底腱膜深面，由3块并排的肌组成：中间是趾短屈肌，从跟骨向足底中心延伸到趾骨；趾短屈肌内侧是位置表浅且厚实的𧿹展肌；趾短屈肌外侧是表浅的小趾展肌。2块展肌在足底两侧明显可见，且易于触及。尽管位于足底腱膜深面，这3块足底肌均相对表浅，故易于触诊。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_692a8f16f77ef6c965ef4852bb1e8b76.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_692a8f16f77ef6c965ef4852bb1e8b76.jpg" />
 
 > [!note]
 > **趾短伸肌**
@@ -4758,7 +4758,7 @@
 
 两条侧副韧带都可对抗膝关节内旋。腓侧副韧带也可以稳定膝关节对抗膝内翻应力（常见于弓形腿的牛仔）；而胫侧副韧带则保护膝关节应对膝外翻应力，例如对抗橄榄球头盔对膝关节外侧面的撞击。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_d3c31f503459e3f5317d1d4d845953b2.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_d3c31f503459e3f5317d1d4d845953b2.jpg" />
 
 > [!note]
 > **腓侧副韧带**
@@ -4781,7 +4781,7 @@
 
 半月板是附着于胫骨髁突上的纤维软骨盘，其在缓冲重力和减少摩擦中具有重要作用，也可使圆形的股骨髁突与平坦的胫骨平台互相适应。内侧半月板的边缘可以在胫骨平台的内侧缘触及，较小但灵活性更好的外侧半月板则很难触及。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_d0bbf7c6c9b4b3a7a969fc251b6c3ae8.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_d0bbf7c6c9b4b3a7a969fc251b6c3ae8.jpg" />
 
 > [!note]
 > **内侧半月板**
@@ -4808,7 +4808,7 @@
 
 腘动脉是股动脉的延续，行经膝后部的腘窝，其位于腘窝的深面，故搏动较难察觉。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_d89667e8154e1c612cbad932f40a152f.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_d89667e8154e1c612cbad932f40a152f.jpg" />
 
 > [!note]
 > **腘动脉**
@@ -4822,7 +4822,7 @@
 
 腓总神经为坐骨神经的分支，沿腘窝外侧缘浅行。腓总神经位于股二头肌肌腱内侧和腓肠肌肌腹外侧，其直径与粗意大利面相当。腓总神经在腓骨头后方走行时位置表浅，易于触及，也容易损伤。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_ac62b2df284165d96b5cf4aced983496.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_ac62b2df284165d96b5cf4aced983496.jpg" />
 
 > [!note]
 > **腓总神经**
@@ -4837,7 +4837,7 @@
 
 三角韧带由数条起自内踝的韧带组成，呈扇形向下分别止于距骨、载距突和舟骨。三角韧带是稳定踝关节内侧的重要结构，虽位于屈肌支持带和屈肌腱深面，但仍可触及。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_b872e77130c2a5bf2b9bc5f6f3bad9eb.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_b872e77130c2a5bf2b9bc5f6f3bad9eb.jpg" />
 
 > [!note]
 > **三角韧带**
@@ -4852,7 +4852,7 @@
 
 跟舟足底韧带是一条短而结实的韧带，帮助维持足底内侧纵弓的稳定。其位于足内侧面、胫骨后肌腱的深面，自载距突延伸至舟骨结节。跟舟足底韧带可能相对敏感，应缓慢触诊，并注意在过程中和受检者沟通。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e04007546db0fa3a0d4e690095dcb859.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e04007546db0fa3a0d4e690095dcb859.jpg" />
 
 > [!note]
 > **跟舟足底韧带**
@@ -4872,7 +4872,7 @@
 
 跟腓韧带在腓骨肌腱深面，起自外踝尖，向下止于跟骨外侧面，位于上述两个韧带之间。只有在踝部严重扭伤时，当距腓前韧带撕裂后，此韧带方会撕裂。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_78cd9ba87a25e8f4b4b4c4ec185043e6.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_78cd9ba87a25e8f4b4b4c4ec185043e6.jpg" />
 
 > [!note]
 > **踝外侧的副韧带**
@@ -4890,7 +4890,7 @@
 
 屈肌支持带呈宽带状，从跟骨内侧面附着处延伸至内踝，深面有（踝和趾的）屈肌肌腱、胫后动脉和胫神经通过。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_fdde2953f6b1028e157a9c2647bb106e.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_fdde2953f6b1028e157a9c2647bb106e.jpg" />
 
 > [!note]
 > **伸肌支持带**
@@ -4930,7 +4930,7 @@
 
 胫后动脉是腘动脉的延续，位置表浅，在内踝的后下方可以触及搏动。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_00cfb6537fdb4f4af2ed9878dfbd3263.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_00cfb6537fdb4f4af2ed9878dfbd3263.jpg" />
 
 > [!note]
 > **胫后动脉**
@@ -4941,7 +4941,7 @@
 
 足背动脉位于足背表面并浅行至第1和第2跖骨间。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_96e2b0c8300894e31b4a074d21c989c4.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_96e2b0c8300894e31b4a074d21c989c4.jpg" />
 
 > [!note]
 > **足背动脉**
@@ -4954,7 +4954,7 @@
 
 第1跖骨的籽骨位于跖骨头深面，通常有2个，有的更多。籽骨呈球形，嵌入跖短屈肌腱中，因此只能触及其位置和硬度，但无法探查清楚其外形。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e9d182576b1ecb12c0908a54b7e8708a.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e9d182576b1ecb12c0908a54b7e8708a.jpg" />
 
 > [!note]
 > **第1跖骨的籽骨**
@@ -4968,7 +4968,7 @@
 
 两个滑膜囊均无法触及，但穿着较紧的鞋特别是高跟鞋时，它们可能会发炎肿胀。
 
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e182cf7c6bdf0bc470f6f0120c608da1.jpg" />
+<img width="80%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/trail_guide_to_the_body_e182cf7c6bdf0bc470f6f0120c608da1.jpg" />
 
 > [!note]
 > **跟骨滑膜囊**
