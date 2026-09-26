@@ -85,7 +85,7 @@
   
 第二，無襯線字體生產出粗糙的「文字圖像」。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_70c48736d697b8d2487bdd88747cfdbe.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_70c48736d697b8d2487bdd88747cfdbe.png" />  
   
 這裡說明，閱讀的清晰度仰賴於對文章脈絡的理解。  
   
@@ -163,7 +163,7 @@
   
 所有操作練習都必須精準與徹底的執行。為了避免破壞預期中的效果，應該避免在小面積的底色上使用小紙片。像以下圖示這樣的配置，會掩蓋掉你想得到的結果並造成混淆：  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_93a483f234d323da360b31779f5a37ed.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_93a483f234d323da360b31779f5a37ed.png" />  
   
 兩兩獨立對照較能清楚展示預期中的效果。但是像對頁那樣如連環磁磚般的呈現方式，會相互抵消它們的錯覺效果，因為：  
   
@@ -172,7 +172,7 @@ b) 影響色與被影響色的區間分佈不恰當。
   
 因此，這樣的呈現方式會錯失焦點與洞察。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_a0fd26054646b7f18fde9b32198190ee.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_a0fd26054646b7f18fde9b32198190ee.png" />  
   
 # 5 較淺和（或）較深——光強度，明度  
   
@@ -198,7 +198,7 @@ b) 影響色與被影響色的區間分佈不恰當。
   
 在無法做出判別的案例裡，殘像（after-image）效果或許可以幫上忙。把兩種顏色的色紙像這樣交疊：  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_68a3289f59444577757cf0c458a5ef2a.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_68a3289f59444577757cf0c458a5ef2a.png" />  
   
 雙眼直盯色紙交疊的角落 B，直到眼睛不適的那瞬間迅速將上層色紙移開。如果現在 C 區塊的顏色看起來比 A 區塊淺，則代表上層的紙顏色較深——反之亦然。接著，顛倒色紙的順序重複這項實驗。通常只有二分之一的對照實驗會揭露它們真實的關係。  
   
@@ -264,7 +264,7 @@ b) 影響色與被影響色的區間分佈不恰當。
   
 經過幾次重複的試驗之後，我們可以做出結論，位置上來說，處於兩底色正中間的顏色，是唯一適合的顏色。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_699272833a2d525d2201dea797c63f83.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_699272833a2d525d2201dea797c63f83.png" />  
   
 這個習作的目的在找出中間色。  
   
@@ -334,7 +334,7 @@ b) 影響色與被影響色的區間分佈不恰當。
   
 等全班同學找出幾種可信的混合色之後，將它們蒐集起來進行陳列（比較務實的作法是放在地板上），再從中選出最具說服力的組合。往往會有些組合比其他組合成功。請同學們分別描述它們的優缺點，並建議可能的修正與改進方法。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_cadf9b3b8df4689751630be807fff3ef.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_cadf9b3b8df4689751630be807fff3ef.png" />  
   
 這樣的陳列方式會提醒學生，事實上有很多種不同的藍色跟很多種不同的黃色，然後進一步達成結論：它們會組合出無數種的混合色。很顯然地，任兩種顏色都能夠創造出非常多的混合色。  
   
@@ -352,7 +352,7 @@ b) 影響色與被影響色的區間分佈不恰當。
   
 這個練習請大家倒過來找答案，也就是從混合色與一個母色，來猜測另一個母色。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_b5be9b9f4528e7e0e5f4c284fbe0e2e6.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_b5be9b9f4528e7e0e5f4c284fbe0e2e6.png" />  
   
 # 10 真實的混合——加法與減法混色  
   
@@ -376,7 +376,7 @@ b) 當顏料在調色盤或是容器中混合時，我們的雙眼感知到的�
   
 配置範例：  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_a89e4bcebd1f9414a03d864d03c0d24e.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_a89e4bcebd1f9414a03d864d03c0d24e.png" />  
   
 # 11 透明感與空間錯覺  
 ## 色彩的邊界與造型術  
@@ -401,7 +401,7 @@ b) 當顏料在調色盤或是容器中混合時，我們的雙眼感知到的�
   
 IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相反，中間色比較接近下方條狀，表示顏色過深。為了修正 IA 的情況，我們必須找出一個位置較低（較深）的中間色；為修正 IIA，則必須找出一個位置較高（較淺）的中間色。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_6a1e4bbbc1785c9ade4ba0ebdbbd41c1.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_6a1e4bbbc1785c9ade4ba0ebdbbd41c1.png" />  
   
 遺憾的是，色調過低或過高經常是難以避免的。在這樣的狀況下，我們應該嘗試調整外側（上方與下方）的顏色——而不是中間色——來練習另一種找出正確定位的方法。  
   
@@ -451,7 +451,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 準備進行色彩轉換的基礎練習，將四個尺寸一致、顏色不等的小方塊拼成一個大方塊。在這四個小方塊中，顏色較淺的會從顏色較重較深的小方形跳脫出來。因此，這些小方塊會因為彼此的相似或相異而相互連結或排斥，形成垂直的、水平的或是對角線的配對，或是三個小方塊聯合組成一個直角，包圍第四個小方塊或將它向外推。（見右頁圖示）  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_9f1abec8184d95f7eafdd921e98efe52.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_9f1abec8184d95f7eafdd921e98efe52.png" />  
   
 這個習題就是要將小方塊間的關係轉移到另一組或更多組尺寸相等的大方塊組中，並調高或調低其明度。當然，如果第一組方塊中包括了最深的顏色，明度就無法再調得更低。同樣的，我們也無法對最淺的白色調高任何明度。  
   
@@ -473,7 +473,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 微幅調高或調低明度時，會出現一種特殊的透明效果，稱為迷濛色（film color），我們將在第 17 章中詳述。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_50d9aae42c3d704d61127ce8807af2ed.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_50d9aae42c3d704d61127ce8807af2ed.png" />  
   
 # 15 再看中間混合色——交錯顏色  
   
@@ -495,7 +495,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 重複做這個動作，我們慢慢發現這個中間色扮演著兩個母色的角色，以相反的位置呈現出來。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_615260d66168c48a0ae44857cf39cca4.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_615260d66168c48a0ae44857cf39cca4.png" />  
   
 用其他顏色重溫這個實驗，我們會知道在真正的中間色裡，母色會分別以相同的含量出現。  
   
@@ -785,7 +785,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 在一張白紙上，用很淡的顏色層層清透地塗抹交疊；首先，如謝弗勒爾所建議的，依算術級數進行（1、2、3、4、5 等層）；接著在同一張紙的第二排，以幾何級數的方式操作（1、2、4、8、16 等層）。這兩排必須是同寬而相鄰的梯階。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_17f5ab699aac1fcf75183f87d90dc349.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_17f5ab699aac1fcf75183f87d90dc349.png" />  
   
 為了正確比較這兩排色塊——分別以算術級數與幾何級數增加深度——必須務求精準。為此，應該避免使用水彩，因為它很難塗抹均勻，常常要不是塗得太厚，就是會出現濃淡不平均的濃重邊緣。像膠捲一般顏色最淡且背後裱覆隔離紙的描圖紙是最佳工具，因為隔離紙可以很容易組合，並且不會看到黏膠。還有很多廠牌可供選擇，如 Zip-A-Tone、Artype 以及 Cello-tak。  
   
@@ -809,7 +809,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 色彩工作者幾乎都不知道韋伯－費希納定律，這著實讓人覺得驚訝又遺憾。它的重要性在物理界——天文學、電學與聲學——較受到推崇。爾後心理學界也認定其重要性——對於聲音、重量與溫度的感知——以及對於光與色彩的感知能力。（見圖例 20-1）接下來與韋伯－費希納重要發現的相關討論，在視覺與陳述上都稍加簡化，以幫助大家了解，然而必須強調，韋伯－費希納的所有計算公式都是依對數級數（logarithmic progressions）進行，它在理論上並不會達到飽和點。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_ecf6eeccad5981475496b9840c69cd4a.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_ecf6eeccad5981475496b9840c69cd4a.png" />  
   
 # 21 從色溫到色彩中的溼度  
   
@@ -835,7 +835,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 或許這也是為什麼冷／暖對比今日不再流行的原因，儘管有一派新理論認為暖色會拉近距離，冷色會拉遠，因為前者的波長較長，後者波長較短，所以光學上會出現不同的成像效果。然而光學與視覺感知的結果，不盡然是一致的。（見圖例 21-1）  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_a25f2bb560264d3e2e374641a4dee2cb.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_a25f2bb560264d3e2e374641a4dee2cb.png" />  
   
 # 22 振動的邊界——強化的輪廓  
   
@@ -913,7 +913,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 接著我們會看叔本華在色環中針對光量的關係與平衡所做的實驗，如第 43 頁的說明。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_414c58522e7196a1f15baad23115f280.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_414c58522e7196a1f15baad23115f280.png" />  
   
 當代的色彩系統中，我們會簡單介紹與分析曼賽爾色彩樹（Munsell Color Tree）的排序、奧斯華德色彩系統（Ostwald Color System），以及衍生自後者的比練色彩系統（Faber Birren Color System）。  
   
@@ -1035,19 +1035,19 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 *註：在本書初版中，圖例的號碼與研習成果的文件夾號碼一致。*  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_da3e79312db9a6a105af80d5ccaa46d1.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_da3e79312db9a6a105af80d5ccaa46d1.png" />  
   
 ## 4-3  
   
 為什麼綠色要用方格狀呈現？或者，有什麼視覺感知上的理由嗎？  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_cb738509f55589b7a0faa8cbacf5b31b.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_cb738509f55589b7a0faa8cbacf5b31b.png" />  
   
 ## 4-4  
   
 被包圍的兩個紫色小色塊事實上是相同的顏色。不過上面那塊看起來跟底部外圍較淺的紫色是一樣的。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_6e6842dd9a8a16f2e16577ec6256426a.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_6e6842dd9a8a16f2e16577ec6256426a.png" />  
   
 # 漸層研究 Chapter 5  
   
@@ -1063,13 +1063,13 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 儘管這樣的練習必須有相當的精準度與耐心才能見效，我們應該鼓勵學生多做這類的研習。應須一提的是，真正的中灰色的紙樣是最難找的。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_cdf70ff489984f0ac15a06f56aed8204.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_cdf70ff489984f0ac15a06f56aed8204.png" />  
   
 ## 5-2  
   
 這兩幅廣告中，我們看到香水瓶的背景是由黑轉白的漸層色，其上分別覆蓋了一條與三條顏色由淺至深、與底色相反的漸層色帶。然而這第二個漸層效果只存在於我們的感知中。事實上，這幾條垂直的色帶是完全均勻的中灰色，是光線造成漸層的錯覺。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_996b836da7ad3929cf237e5b8a18c663.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_996b836da7ad3929cf237e5b8a18c663.png" />  
   
 ## 5-3  
   
@@ -1080,7 +1080,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
 然而從八種紅色之間選出最紅的紅色，答案注定難產。最左邊的兩個紅色大概會在第一輪投票中獲得青睞：年紀較長的  
 可能會選第一種紅色，年紀較輕的可能會選第二種紅色。第二種紅——朱紅色或橘紅色——越來越受到設計師（特別是排版設計師〔typographer〕）喜愛，用於黑紅搭配、底色為白色的廣告中。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_5507208b80df046057ad62627111766c.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_5507208b80df046057ad62627111766c.png" />  
   
 # 相反的底色 Chapter 6  
   
@@ -1100,7 +1100,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 問題在於：找出在兩個底色上失去其真實面貌的顏色。要問的是：是什麼樣的顏色相關性，讓三種顏色看起來像兩種顏色？  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_a4e888234f21d9794b11096442aa23d4.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_a4e888234f21d9794b11096442aa23d4.png" />  
   
 ## 6-4  
   
@@ -1108,13 +1108,13 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 在棕色和紫色兩個底色上，中央小方塊看似一旁底色的顏色——紫色與棕色。然而小色塊的顏色是完全一樣的，卻同時有如一旁底色的顏色。我們無法辨認兩個小色塊的真正顏色，它失去了真實的面貌。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_006410ab71d3a345b5364af434ba5ec8.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_006410ab71d3a345b5364af434ba5ec8.png" />  
   
 ## 6-4  
   
 半圓形的上半部跟下半部看起來是不同顏色，看起來像是對方的底色。從連結兩個半圓的部分，我們看出，它們事實上是相同的一種顏色。問題：什麼顏色會出現這樣的偽裝？注意這個半圓的部分如何引導我們去比較「它的另一半」。這個練習可以作為心理工程的範例。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_81b2bca183c3f49f4d64ef6fbea99550.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_81b2bca183c3f49f4d64ef6fbea99550.png" />  
   
 # 減色 Chapter 7  
   
@@ -1130,7 +1130,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 深色的消散。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_858be0e8083efa17590f50442fba20f0.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_858be0e8083efa17590f50442fba20f0.png" />  
   
 ## 7-4  
   
@@ -1140,7 +1140,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 兩個大矩形中央的小方型看似顏色相同。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_1404f1005238b1a4971b7d7603b32bb9.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_1404f1005238b1a4971b7d7603b32bb9.png" />  
   
 ## 7-5  
   
@@ -1152,7 +1152,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 我們倒過來看這個練習——由下而上——當差異很大的那不勒斯黃與赭黃色交錯置於中間那組顏色對比的底色上時，看起來甚至更不一樣。但是當底色對調如最上方的色塊，它們便從鮮明的對比色變成很相似的顏色。拿普勒斯黃與赭黃色變得看起來很相像。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_dece30eca0d434e4b2d1de3dbdbb4843.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_dece30eca0d434e4b2d1de3dbdbb4843.png" />  
   
 ## 7-7  
   
@@ -1166,7 +1166,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 找到視覺證據的方法，是從你的作業簿上撕下一張紙（通常有點半透明），鎖定兩個深灰色矩形的位置，剪下比它們稍微更小的洞口，然後比較你從些洞口看到的東西。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_9f03d0b17faa93bd945883985f4cf5c7.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_9f03d0b17faa93bd945883985f4cf5c7.png" />  
   
 # 視覺殘像 Chapter 8  
   
@@ -1174,7 +1174,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 把頁面橫放讓紅圓圈出現在左手邊。盯著紅圓圈正中心的黑點，持續三十秒後，把目光移向白圓圈的中心，這時候我們看到的不是白色。我們看到的顏色是紅色的殘像，也就是同時對比。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_6c3693a8cd92a733bc289b69d306af00.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_6c3693a8cd92a733bc289b69d306af00.png" />  
   
 ## 8-2  
   
@@ -1184,7 +1184,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 我們會體驗到一種非常不一樣的殘像。眼前看到的不是黃色圓形的互補色（藍色），而是黃色的鑽石形狀——圓形的殘留形狀。這是一種雙重而反轉的殘像，有時稱為對比反轉（contrast reversal）。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_04f46e9b762e69be60cbf0eb137139df.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_04f46e9b762e69be60cbf0eb137139df.png" />  
   
 # 紙上的混色 Chapter 9  
   
@@ -1200,7 +1200,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 詳讀第 11 章，利用色紙找出能創造各種空間錯覺的混合色。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_16601452a79c00757c9e5634e1971bb1.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_16601452a79c00757c9e5634e1971bb1.png" />  
   
 ## 9-3  
   
@@ -1214,7 +1214,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 第二個問題：為什麼報紙壓在黃色色紙上，會出現這樣透明的錯覺？  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_c7d557067f10742defe57dac9fcf05bd.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_c7d557067f10742defe57dac9fcf05bd.png" />  
   
 # 加法與減法混色 Chapter 10  
   
@@ -1234,7 +1234,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 現在，既然兩個練習都用顏料（墨水）進行，事實上，它們「呈現」的只有反射光；它們僅僅「再現」於我們的視錯覺。右手邊的減法混合是屬於畫家的領域，而左手邊的加法混合則屬於物理學家的世界。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_9831aa54f8a2d64a8172b6005e6139a0.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_9831aa54f8a2d64a8172b6005e6139a0.png" />  
   
 # 透明感與空間錯覺 Chapter 11  
   
@@ -1242,13 +1242,13 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 這個兩色混合的習作應以其罕見的精準獲得推崇，其中包括九個等階漸層變化的紅色——源自黃色含量逐步適度提高。跟左上角的小紅點一起看，更能彰顯這個圖例的意義。相較於向下等量增加的紅色，逐漸向上增加的明度看起來更搶眼。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_c7aef4a710e36088b374176186480c61.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_c7aef4a710e36088b374176186480c61.png" />  
   
 ## 11-2  
   
 藍色與綠色色塊交疊組合成三種不同的混色。在最下方的圖中，綠色浮出於前；最上方的圖，藍色是主宰色；中間的圖示，幾乎出現了中間色。比較並分辨每個混色兩側的邊界。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_707a44c07fa70c577790caaadd8b698a.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_707a44c07fa70c577790caaadd8b698a.png" />  
   
 ## 11-3  
   
@@ -1256,7 +1256,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 銳利的首要邊界是由含量較重的主導色所生成，它們決定了這個混合色的動態。因此，在下方黑色色塊中，較銳利而顯眼的是水平的邊界，表示它將上下隔絕，並向左右兩側延展。而最上方那個明度較高的混合色中具有主導性的邊界，則是垂直的交界處，左右兩側被隔絕，色塊往上延展。這也間接解釋了在中間的混合色。黑色與白色具有同樣或是幾乎一樣的分量，因此混合色的邊界也呈現一致；這告訴我們不管黑色或白色都沒有疊在上方，兩者是在一個二維的平面上互相穿透——沒有任何空間上的隔絕——因此產生了「中間色」。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_24814482ae1315cca369c50b916aced2.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_24814482ae1315cca369c50b916aced2.png" />  
   
 ## 11-3  
   
@@ -1268,7 +1268,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 要注意的是，任何混合色都比顏色較淺的母色為深。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_b7cc16d23d3699ecafe7941c5c59de97.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_b7cc16d23d3699ecafe7941c5c59de97.png" />  
   
 # 視覺混色 Chapter 12  
   
@@ -1280,7 +1280,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 將頁面橫放，讓白點圓點出現在右手邊。從一個距離外觀察藍色、綠色跟白色的圓圈。右半邊，比較最明亮的白色部分——全白的圓以及中間有填色的圓；然後比較左手邊較小的白點。視線從左手邊開始，比較所有的藍色圓圈——中心有底色的與沒底色的，中心是綠色或白色的，還有那些看起來變成綠圓圈跟白圓圈的中心的藍點。在中間段落，用相同方法觀察比較綠色圓圈以及它們經過視覺混色後出現的變化。當你在不同的空間位置似乎看到超過三種顏色時，把整張圖片打直看。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_ef810071d8433557f49bd36c4216a51d.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_ef810071d8433557f49bd36c4216a51d.png" />  
   
 # 貝哲德視覺假象 Chapter 13  
   
@@ -1294,7 +1294,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 *《色彩理論和它與藝術／藝術產業的關係》（*The Theory of Color and Its Relation to Art and Art Industry*），譯本，波士頓 Prang 出版，1876 年。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_a7dc82c2588c1478b9f78561067ae436.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_a7dc82c2588c1478b9f78561067ae436.png" />  
   
 ## 13-2  
   
@@ -1302,7 +1302,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 另一種解讀：除了貝哲德視覺假象之外，這裡可以看到與它相反的視覺殘像效果——比較包夾在黑色兩側的深紅色與夾在白色兩側的深紅色。定義這個變化。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_519e0fa3241218dd9c273e3171f999a8.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_519e0fa3241218dd9c273e3171f999a8.png" />  
   
 ## 13-3  
   
@@ -1310,7 +1310,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 用白色取代掉黑色之後，其他顏色跟著明亮起來，這就是貝哲德視覺假象以及這個習作的目的。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_f442bab2d3aaad3319e30fb150f7f051.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_f442bab2d3aaad3319e30fb150f7f051.png" />  
   
 # 色彩間距與轉換 Chapter 14  
   
@@ -1324,19 +1324,19 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 訓練你的眼睛：從左至右，比較上下兩排大方塊中相對應的邊界。你會看到在所有四個大方塊中，左半邊的顏色都比較深，右半邊則呈現朦朧感。詳讀第 14 章，觀察闡釋此議題的六個圖示。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_d0825973a8aaf1a0bddd3f16322ab729.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_d0825973a8aaf1a0bddd3f16322ab729.png" />  
   
 ## 14-2  
   
 將圖例 14-2 橫擺，讓三張圖左右相鄰。四種紅色（兩個深色＋兩個淺色）並置的組合重複出現三次。這四個紅色接著被轉換成其他色相——兩個明度較低的藍色（左），灰色（中），以及明度較高的橘色（右）。為了比較四個色相裡四個色調的間距，轉換色組合以較小的尺寸被置於相同的三紅色組的中央，現在它們作為底色，提供相同的觀察基準。儘管藍色可能看起來比周遭的紅色要淺，事實上在漫射的日光（室內以及室外）、充裕的陽光，以及在暖／冷調的人工光源下，它們的顏色都比周遭的紅色深。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_dbbd1e2c3bc1279788eb085df9ba1250.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_dbbd1e2c3bc1279788eb085df9ba1250.png" />  
   
 ## 14-3  
   
 四個色相與明度皆不同的顏色，轉換成四個顏色皆異但明度較高的顏色。這兩個四色組互換後，形成一個很有說服力也很有意思的轉換。兩者左半邊顏色都較輕巧，而右半邊的顏色較厚實。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_fe35e4f48ff6b34e820dbeedc44e03a2.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_fe35e4f48ff6b34e820dbeedc44e03a2.png" />  
   
 # 交錯 Chapter 15  
   
@@ -1344,7 +1344,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 將圖例 15-1 橫放，讓黃色及綠色矩形呈現在左手邊。把第 141 頁裁下或影印後對折，便會另外得到一張正反兩面皆有圖案獨立頁面，左上角並各加註了一或兩個點，以便在練習時鎖定正確的顏色。把這張紙移到左邊第一個顏色的右側邊界旁，讓第二個顏色僅露出一個狹長的帶狀（約 1/4 吋寬）。眼睛一邊盯著這個細長帶狀，一邊把那獨立的紙張緩緩向右移動，漸漸地我們會看到第二個顏色——居中的顏色——越來越大塊的面積。這個動作完成後會出現一個新的錯覺：這個居中的顏色看起來越來越像是兩種顏色，在它左邊邊界彷彿出現右邊色塊的顏色，而其右邊邊界出現左邊色塊的顏色。在白熾（暖調）人工光源下做這個練習效果最好。應重複多次練習，讓自己熟悉這樣的現象。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_e609c6682ccbc43c80ec7e4a3b56af86.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_e609c6682ccbc43c80ec7e4a3b56af86.png" />  
   
 ## 15-2  
   
@@ -1352,7 +1352,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 這種新的透明感可以用來測量這一類的混色。經過幾度觀察之後我們就會知道，這個混合色所含有兩個的母色是否等量。在自然光以及暖白加冷白的日光燈下，中央色塊看起來混色十分均勻。不過在暖調白熾燈光下，特別是在一個距離外看的時候，粉紅色則壓過小量的咖啡色佔有主導地位。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_9056daab8de04b0130018de655a2f0ae.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_9056daab8de04b0130018de655a2f0ae.png" />  
   
 ## 15-2  
   
@@ -1360,7 +1360,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 這裡呈現的是凹槽效應「展開」後的樣子：把深紅色矩形想成底層平面圖，然後把凹槽視作兩面的側視圖。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_bfaef4b3e53bfb4309077307b9f0bdf5.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_bfaef4b3e53bfb4309077307b9f0bdf5.png" />  
   
 # 量體 Chapter 16  
   
@@ -1372,7 +1372,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 儘管粉紅色看似具有某種主導性（可資證明），這四個圖案各有不同的風格。如果我們將它們看做四面寬度遠大於高度的牆面，這一點會更顯著；最簡單的方式就是用手遮去圖案上半部三分之二的面積。首先，想像自己就站在每一道牆前面；接著再想像有其他人站到這些牆面前。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_210785e0ff237955b598a8a191b93b73.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_210785e0ff237955b598a8a191b93b73.png" />  
   
 ## 16-2  
   
@@ -1384,19 +1384,19 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 請不要問哪一個是「最好的」設計，儘管這個問題我們不陌生，因為在沒有進一步定義原因與目的的情況下，這個問題既不合宜也沒有相關性。它只透露出發問者的見識不足。（見本文第 73 頁關於變形與多樣性的論述。）  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_6a63e7df9e515991ac46db4be007e497.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_6a63e7df9e515991ac46db4be007e497.png" />  
   
 ## 16-3  
   
 一個不尋常的解題方式。此習作中四個圓重複再現，依循著嚴格的從屬規範——亦即四個圓內精準重複相同的細分方式——它同時很清楚地呈現圓內以及四圓之間的連結與隔離的極端案例：內側的圈圈的內聚力（cohesion），相對於外側的圈圈的黏附力（adhesion）。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_dba078834163ae02b3b5e67ecd325b6a.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_dba078834163ae02b3b5e67ecd325b6a.png" />  
   
 ## 16-3  
   
 這是最成功的「量體習作」，並出乎意料地翻轉人們認為底色是最大區塊的第一印象。在這裡，底色上面的花色因其出現頻率加上數量——或說其重複性加上擴展——取得主導地位。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_103f81ebff73f108d4d09c98d229e7dd.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_103f81ebff73f108d4d09c98d229e7dd.png" />  
   
 # 迷濛色與空間色 Chapter 17  
   
@@ -1408,19 +1408,19 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 如果打亮區域的明度在所有色塊中看起來一致，便可證明下圖的解法是正確的。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_4512dc283972414e372d1e629b2081a8.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_4512dc283972414e372d1e629b2081a8.png" />  
   
 ## 17-1  
   
 迷濛色的錯覺告訴我們，有一張幾乎透明的繪圖膠片蓋在四個顏色之上，而右手邊甚至覆蓋了兩層。不過我們必須記得，原始習作中用的不是透明材質，而是不透光的紙；用不透光的紙自然必須非常精準地選擇顏色。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_070e091d71e2b30ef0f2991b92aa8dac.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_070e091d71e2b30ef0f2991b92aa8dac.png" />  
   
 ## 17-2  
   
 用不透光的紙進行的練習顯示，迷濛色上會出現透明的錯覺。這讓我們想起另一個習作：在四種顏色組合出五個長條狀並置的圖案上，先後橫跨三個長條、五個長條塗上一道亮光漆。數一下有幾種所需的顏色，利用色紙或墨水重複這個練習。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_729f269f4c6b55d1cd8693f343b5a3f8.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_729f269f4c6b55d1cd8693f343b5a3f8.png" />  
   
 # 自由研習 Chapter 18  
   
@@ -1434,7 +1434,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 這裡展示出一個有趣的活化作用。我們從來不會把一個嚴密重複的圖案從頭看到尾看清楚，而這裡的圖案經過持續的調整後產生一種與原圖相近的設計，引導人完整地「看透」。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_ff1859571c1a8bc13e0fd2114bd2bbf5.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_ff1859571c1a8bc13e0fd2114bd2bbf5.png" />  
   
 ## 18-2  
   
@@ -1444,19 +1444,19 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 一個顯著的形狀主導了這個畫面。許多相同尺寸的圓形垂直或橫向緊密相連。它們以這樣機械性且單純的分布方式占滿整個空間，讓圓與圓之間的空間只呈現單一的形狀與尺寸。看來唯一可以自由選擇的是顏色與明度。我們建議這類「限定工具」的組合，因為限定一個方向之後，往往會在其他方向開啟更多的自由。換一個限定條件（這裡限定的是形狀），我們建議用「限定的調色盤」——只能用固定幾種顏色，或是限定用一個色相，或是用兩種濁色取代多種濁色，特別是單色的並置排列。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_9653e5d772c81e1873c7c72fbb4b9189.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_9653e5d772c81e1873c7c72fbb4b9189.png" />  
   
 ## 18-3  
   
 這是一個運用色紙組成的典型而成功的配置。不受限於色彩調和，每一個顏色都能夠「維繫自己的面貌」。儘管排列得鬆散，透過外圈塊狀與內部圖形的獨特關係，此圖形成很穩固的聚合以及既獨立又互相依賴的均勢狀態。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_228e5b8446e61d181d70df70d58f3891.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_228e5b8446e61d181d70df70d58f3891.png" />  
   
 ## 18-3  
   
 結合兩種相對的色彩效應——視覺殘像以及與它相對的視覺混合——暗色調的紅色與綠色間出現雙重的交互作用。經過更頻繁與更平均的切分，外圈區域容易出現明度降低的視覺混合色；另一方面，視覺殘像會出現在隱晦的中央區域，綠底色——在圖案與底色互換後——的擴增面積會大於紅色。中央區域條紋數量的減少，明顯促成綠色的明度與面積的增加，然而對紅色來說，增加的只有面積，明度是下降的。這些會讓態勢出現微妙的變化，外圈和緩而扁平的顏色，越向中心越突顯其方向性。而跨過水平中心線出現的圖案與底色的強烈變化，會讓兩者翻轉。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_006a43da003d91a1d3285724431b1f71.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_006a43da003d91a1d3285724431b1f71.png" />  
   
 ## 18-9  
   
@@ -1464,7 +1464,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 此外，相鄰的色彩呈現和諧而有力的配置，讓藍色看似暖色。儘管所有的顏色都以條紋的形狀出現（同樣「邊緣堅硬」的線條），這些差異都可以被解讀出來。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_8a66d9a204d4877c9926a6136379a8cb.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_8a66d9a204d4877c9926a6136379a8cb.png" />  
   
 ## 18-11  
   
@@ -1474,7 +1474,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 注意在這個習作中包括作為底色的白色是主動色。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_a7a0defd2d32b916ff6e2b605f9c2a4d.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_a7a0defd2d32b916ff6e2b605f9c2a4d.png" />  
   
 # 大師 Chapter 19  
   
@@ -1486,7 +1486,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 這裡應該很容易分辨用色紙組合出的習作與「真跡的複製畫」。這個習作是依據馬蒂斯 (Matisse) 的作品所做。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_57160cc751255004aeb2caeb53768333.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_57160cc751255004aeb2caeb53768333.png" />  
   
 # 韋伯 - 費希納定律 Chapter 20  
   
@@ -1506,7 +1506,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 我們可以很輕易地推論，增加第五個色層幾乎不會再讓黃色加深，也不會讓色層間的邊界更顯著。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_a3ebb1f147e31cd58a38f70b6538e664.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_a3ebb1f147e31cd58a38f70b6538e664.png" />  
   
 ## 20-1  
   
@@ -1520,7 +1520,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 用顏色非常淡的描圖紙層層黏貼出這樣的色階，然後與梯階狀或是持續線條的線狀圖示並置，觀察其 (a) 物理內容，以及 (b) 心理效果。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_febe4cb6a8675435cd072d37115578f1.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_febe4cb6a8675435cd072d37115578f1.png" />  
   
 # 暖一涼 Chapter 21  
   
@@ -1528,7 +1528,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 通常代表暖色與涼色的紅色與藍色輪流置於左右兩側，顯示兩色的色溫看起來可高，可低。這樣的配置很容易引發不同見解。不過把所有左半邊的色溫看做是高於成對的右半邊並不是不合理的。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_bf0e3772a6e87ce7e5c27a9c241eea8a.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_bf0e3772a6e87ce7e5c27a9c241eea8a.png" />  
   
 # 振動的邊界 Chapter 22  
   
@@ -1538,7 +1538,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 注意這些習作是用一般的色紙所做，而不是用所謂的「螢光」(day-glow) 紙。後者的效果源於一種新式的螢光顏料，在這裡的振動效果的錯覺，目前還沒有已知的解釋。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_70beb6de6427f5276b48eb701da6dc6e.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_70beb6de6427f5276b48eb701da6dc6e.png" />  
   
 ## 22-2  
   
@@ -1546,7 +1546,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 另一個邊界振動的錯覺的案例，我們可以回想一下光輪與光暈。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_6f4e5f358eb2e7a51d9744dce27dea66.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_6f4e5f358eb2e7a51d9744dce27dea66.png" />  
   
 # 相同的光強度 Chapter 23  
   
@@ -1554,13 +1554,13 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 赭黃跟粉紅這兩個淺色調刻意用張揚的造型呈現，就像是雙面皆為刀鋒的鋸子。左側，它們獨立存在，僅端點相連。當它們如右側完全相連時，我們在一個距離外觀察，原本在左圖中十個尖銳的鋸齒，幾乎消失於兩色平順的融合之中。這裡的形狀之所以消失，是因為兩個顏色具有相等或是幾乎相等的光強度。(見本文第 62 頁)  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_4288d0b3a0c8ae94ebfe436dd71f8b40.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_4288d0b3a0c8ae94ebfe436dd71f8b40.png" />  
   
 ## 23-2  
   
 這裡我們看到的是向左右兩側延展，同時擁有許多銳角的圖案。儘管所有的形狀都是結構清楚、相似的三角形——由尖銳的夾角與直線組成——近距離觀看上圖，我們無法確認我們看到的是好幾個圖案還是一個圖案。幾乎沒辦法數清楚所有的三角形，更別說是有多少個夾角。因為兩個顏色具有相等的光強度，導致圖案的輪廓消失。唯有在白色底圖上，我們才看得清楚事實上這裡有十一個三角形跟二十一個夾角。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_e73adce9a791af41e16a625dbcded2fa.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_e73adce9a791af41e16a625dbcded2fa.png" />  
   
 # 色彩理論 Chapter 24  
   
@@ -1574,7 +1574,7 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 在本文第 66 頁可看到另外三組圖示，可供進一步研究這些群組內，以及不同群組間的關係。我們建議用描圖紙 (疊在等邊三角形上) 把這九組〔我不懂這是如何計算的〕圖複製下來，然後把它們當模板一樣剪下來做進一步的比較。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_632174051ba335843f56d7d8619d0a8d.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_632174051ba335843f56d7d8619d0a8d.png" />  
   
 # 葉片研究  
   
@@ -1582,5 +1582,5 @@ IA 中的混合色比較接近上方條狀，因此顏色過淺；IIA 情況相�
   
 這個關於乾燥落葉與色紙的練習不需要贅述細節。觀察它們有多麼不同，對於上過基礎課堂練習的學生來說，這是獨立的作業；基礎練習的首要目標是辨識單一的色彩效果，然後才是進一步藉由實際操作色彩互動學，來培養主導色彩的關係的能力。認識這個媒材的多元使用方式，以及它多變的組合與風貌——不因其調和感或不調和感而怯步，對不和諧或和諧的結果都心存尊重。  
   
-<img width="50%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_fe56b947e561ae489479563237203442.png" />  
+<img width="100%" src="https://raw.githubusercontent.com/staplati/123/refs/heads/main/images/interaction_of_color_fe56b947e561ae489479563237203442.png" />  
   
